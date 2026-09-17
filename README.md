@@ -102,7 +102,6 @@ ege = {
 
 | PR | Repo | Status |
 |----|------|--------|
-| [#48864](https://github.com/huggingface/transformers/pull/48864) | `huggingface/transformers` (166k⭐) | `fix(vibevoice-asr): integer ceiling division for audio tokens` — OPEN |
 | [#41012](https://github.com/BerriAI/litellm/pull/41012) | `BerriAI/litellm` (58.9k⭐) | `fix(proxy): case-insensitive User-Agent header lookup` — OPEN |
 | [#41057](https://github.com/BerriAI/litellm/pull/41057) | `BerriAI/litellm` | `fix(bedrock): keep mid-conversation system messages in place` — OPEN |
 | [#13278](https://github.com/continuedev/continue/pull/13278) | `continuedev/continue` (35.9k⭐) | `fix: correlate id-less parallel tool-call fragments by stream index` — OPEN |
