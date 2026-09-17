@@ -102,12 +102,18 @@ ege = {
 
 | PR | Repo | Status |
 |----|------|--------|
-| [#41012](https://github.com/BerriAI/litellm/pull/41012) | `BerriAI/litellm` (58k⭐) | `fix(proxy): case-insensitive User-Agent` — **lint SUCCESS** |
-| [#83](https://github.com/syncable-dev/memtrace-public/pull/83) | `syncable-dev/memtrace-public` | `docs(cli): sudo hint` — OPEN |
-| [#548](https://github.com/agentguard-ai/tealtiger/pull/548) | `agentguard-ai/tealtiger` | `docs(mcp): client configs` — OPEN |
-| [#629](https://github.com/yakew7/Fair-Code/pull/629) | `yakew7/Fair-Code` | `docs: six → seven audits` — **MERGED** ✅ |
-| [#39](https://github.com/gczobel/calibre_mcp_server/pull/39) | `gczobel/calibre_mcp_server` | `docs: stale null claim` — **MERGED** ✅ |
-| [#30318](https://github.com/lingdojo/kana-dojo/pull/30318) | `lingdojo/kana-dojo` | `content: false friend` — **MERGED** ✅ |
+| [#48864](https://github.com/huggingface/transformers/pull/48864) | `huggingface/transformers` (166k⭐) | `fix(vibevoice-asr): integer ceiling division for audio tokens` — OPEN |
+| [#41012](https://github.com/BerriAI/litellm/pull/41012) | `BerriAI/litellm` (58.9k⭐) | `fix(proxy): case-insensitive User-Agent header lookup` — OPEN |
+| [#41057](https://github.com/BerriAI/litellm/pull/41057) | `BerriAI/litellm` | `fix(bedrock): keep mid-conversation system messages in place` — OPEN |
+| [#13278](https://github.com/continuedev/continue/pull/13278) | `continuedev/continue` (35.9k⭐) | `fix: correlate id-less parallel tool-call fragments by stream index` — OPEN |
+| [#5133](https://github.com/PrefectHQ/fastmcp/pull/5133) | `PrefectHQ/fastmcp` (27.7k⭐) | `fix(resources): strip URI fragment before matching query params` — OPEN |
+| [#492](https://github.com/deedy5/ddgs/pull/492) | `deedy5/ddgs` (3k⭐) | `fix(cli): 'standart' → 'standard' resolution choice` — OPEN |
+| [#3005](https://github.com/astronomer/astronomer-cosmos/pull/3005) | `astronomer/astronomer-cosmos` (1.3k⭐) | `fix: skip re-adding excluded test nodes` — OPEN |
+| [#554](https://github.com/agentguard-ai/tealtiger/pull/554) | `agentguard-ai/tealtiger` | `docs(mcp): Continue + Windsurf client configs` — **MERGED** ✅ |
+| [#961](https://github.com/MakazhanAlpamys/Soup/pull/961) | `MakazhanAlpamys/Soup` | `feat(mlx): widen sft table to four CUDA-only fields` — **MERGED** ✅ |
+| [#303](https://github.com/sara-czasak/py-simple-wrap/pull/303) | `sara-czasak/py-simple-wrap` | `feat(easy_random): generate_password helper` — **MERGED** ✅ |
+| [#629](https://github.com/yakew7/Fair-Code/pull/629) | `yakew7/Fair-Code` | `docs(profiler): audit count six → seven` — **MERGED** ✅ |
+| [#30318](https://github.com/lingdojo/kana-dojo/pull/30318) | `lingdojo/kana-dojo` | `content: japanese false friend` — **MERGED** ✅ |
 
 ---
 
