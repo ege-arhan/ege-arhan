@@ -21,7 +21,7 @@ ege = {
     "stack": ["Python", "TypeScript", "Docker", "Linux"],
     "affiliation": "INOVENS · Hackathons · Client Projects",
     "building": ["mcp-forge", "mcp-sanity"],
-    "open_source": "42 PRs across 28 upstream repos, Sep 2026",
+    "open_source": "42 PRs across 24 upstream repos, September 2026",
     "motto": "Automate everything. Ship fast. Keep it simple."
 }
 ```
@@ -102,38 +102,40 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*42 PRs · 28 upstream repos · 9 merged · 22 in review · all September 2026*
+*42 PRs · 24 upstream repos · 9 merged · 22 in review · September 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
-| [#48864](https://github.com/huggingface/transformers/pull/48864) | `huggingface/transformers` (166k⭐) | `fix(vibevoice-asr)`: integer ceiling division for audio tokens |
-| [#961](https://github.com/MakazhanAlpamys/Soup/pull/961) | `MakazhanAlpamys/Soup` | `feat(mlx)`: widen sft table to four CUDA-only fields |
-| [#957](https://github.com/MakazhanAlpamys/Soup/pull/957) | `MakazhanAlpamys/Soup` | docs: polished Turkish README translation |
-| [#554](https://github.com/agentguard-ai/tealtiger/pull/554) | `agentguard-ai/tealtiger` | docs(mcp): Continue + Windsurf client configs |
-| [#303](https://github.com/sara-czasak/py-simple-wrap/pull/303) | `sara-czasak/py-simple-wrap` | `feat(easy_random)`: `generate_password` helper |
-| [#629](https://github.com/yakew7/Fair-Code/pull/629) | `yakew7/Fair-Code` | docs: correct bias audit count six → seven |
-| [#39](https://github.com/gczobel/calibre_mcp_server/pull/39) | `gczobel/calibre_mcp_server` | docs: removed stale tool-surface claim |
-| [#30318](https://github.com/lingdojo/kana-dojo/pull/30318) | `lingdojo/kana-dojo` | content: new Japanese false friend |
-| [#81](https://github.com/open-devhub/website/pull/81) | `open-devhub/website` | fix(footer): GPL-3.0 license line |
+| [#48864](https://github.com/huggingface/transformers/pull/48864) | `huggingface/transformers` (166k⭐) | fix(vibevoice-asr): use integer ceiling division for audio token count |
+| [#554](https://github.com/agentguard-ai/tealtiger/pull/554) | `agentguard-ai/tealtiger` | docs(mcp): add Continue + Windsurf client configs (follow-up to #548) |
+| [#303](https://github.com/sara-czasak/py-simple-wrap/pull/303) | `sara-czasak/py-simple-wrap` | feat(easy_random): add generate_password helper |
+| [#961](https://github.com/MakazhanAlpamys/Soup/pull/961) | `MakazhanAlpamys/Soup` (6.9k⭐) | feat(mlx): widen sft table to remaining four CUDA-only fields |
+| [#957](https://github.com/MakazhanAlpamys/Soup/pull/957) | `MakazhanAlpamys/Soup` (6.9k⭐) | docs(readme): polish Turkish translation for v0.75.0 release |
+| [#81](https://github.com/open-devhub/website/pull/81) | `open-devhub/website` | fix(footer): replace All rights reserved with GPL-3.0 license link |
+| [#629](https://github.com/yakew7/Fair-Code/pull/629) | `yakew7/Fair-Code` | docs(profiler): correct bias audit count from six to seven |
+| [#30318](https://github.com/lingdojo/kana-dojo/pull/30318) | `lingdojo/kana-dojo` (3.4k⭐) | content: add new japanese false friend |
+| [#39](https://github.com/gczobel/calibre_mcp_server/pull/39) | `gczobel/calibre_mcp_server` | docs(tool-surface): remove stale claim that non-link custom columns retu… |
 
 **In review — selected open PRs**
 
 | PR | Repo | Change |
 |----|------|--------|
-| [#57518](https://github.com/vllm-project/vllm/pull/57518) | `vllm-project/vllm` (92k⭐) | LoRA device lookup falls through to packed weights |
-| [#18520](https://github.com/ollama/ollama/pull/18520) | `ollama/ollama` (181k⭐) | allow 96-char model names for long HF GGUF pulls |
-| [#8248](https://github.com/microsoft/autogen/pull/8248) | `microsoft/autogen` (61k⭐) | carry JSON Schema type for optional tool fields |
-| [#41057](https://github.com/BerriAI/litellm/pull/41057) | `BerriAI/litellm` (59k⭐) | bedrock: keep mid-conversation system messages in place |
-| [#12799](https://github.com/deepset-ai/haystack/pull/12799) | `deepset-ai/haystack` (26.5k⭐) | `LLMRanker`: ranked output on `None` query instead of silent passthrough |
-| [#13278](https://github.com/continuedev/continue/pull/13278) | `continuedev/continue` (36k⭐) | correlate id-less parallel tool-call fragments by stream index |
-| [#5133](https://github.com/PrefectHQ/fastmcp/pull/5133) | `PrefectHQ/fastmcp` (27.7k⭐) | strip URI fragment before matching query params |
-| [#2830](https://github.com/modelcontextprotocol/typescript-sdk/pull/2830) | `modelcontextprotocol/typescript-sdk` (13k⭐) | settle pending requests when SSE response leg ends early |
-| [#41012](https://github.com/BerriAI/litellm/pull/41012) | `BerriAI/litellm` | case-insensitive User-Agent header lookup in proxy |
-| [#492](https://github.com/deedy5/ddgs/pull/492) | `deedy5/ddgs` (3k⭐) | fix `standart` → `standard` resolution choice |
+| [#18520](https://github.com/ollama/ollama/pull/18520) | `ollama/ollama` (181k⭐) | Allow 96-char model names so long HF GGUF pulls validate |
+| [#57518](https://github.com/vllm-project/vllm/pull/57518) | `vllm-project/vllm` (92k⭐) | LoRA device lookup falls through to packed weights when repacking clears… |
+| [#8248](https://github.com/microsoft/autogen/pull/8248) | `microsoft/autogen` (61k⭐) | Carry JSON Schema type for optional tool fields |
+| [#41572](https://github.com/BerriAI/litellm/pull/41572) | `BerriAI/litellm` (59k⭐) | fix(proxy): guard SlackAlerting periodic_flush start on repeated update_… |
+| [#41243](https://github.com/BerriAI/litellm/pull/41243) | `BerriAI/litellm` (59k⭐) | fix(passthrough): keep adaptive thinking/effort on native /v1/messages p… |
+| [#41057](https://github.com/BerriAI/litellm/pull/41057) | `BerriAI/litellm` (59k⭐) | fix(bedrock): keep mid-conversation system messages in place on converse… |
+| [#41012](https://github.com/BerriAI/litellm/pull/41012) | `BerriAI/litellm` (59k⭐) | fix(proxy): case-insensitive User-Agent header lookup in _get_user_agent… |
+| [#13278](https://github.com/continuedev/continue/pull/13278) | `continuedev/continue` (36k⭐) | fix: correlate id-less parallel tool-call fragments by stream index |
+| [#5133](https://github.com/PrefectHQ/fastmcp/pull/5133) | `PrefectHQ/fastmcp` (28k⭐) | fix(resources): strip URI fragment before matching query params |
+| [#12799](https://github.com/deepset-ai/haystack/pull/12799) | `deepset-ai/haystack` (27k⭐) | LLMRanker returns documents unranked on None query instead of crashing |
+| [#2830](https://github.com/modelcontextprotocol/typescript-sdk/pull/2830) | `modelcontextprotocol/typescript-sdk` (13k⭐) | Settle pending requests when the SSE response leg ends early |
+| [#25](https://github.com/SnailSploit/Claude-Red/pull/25) | `SnailSploit/Claude-Red` (6.3k⭐) | fix: use RFC-reserved names instead of live attacker.com in examples |
 
-Plus open work in `langchain`, `mcp/python-sdk`, `zemberek-nlp` ×2, `whisper-asr-webservice` ×2, `astronomer-cosmos` ×2, `sarracenia`, `petdex`, `Claude-Red`, `memtrace-public`, `traverse`, `KiroCrew`.
+Plus open work in `sarracenia`, `zemberek-nlp`, `whisper-asr-webservice`, `astronomer-cosmos`, `petdex`, `ddgs`, `memtrace-public`.
 
 ---
 
