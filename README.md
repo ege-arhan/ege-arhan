@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ege-arhan&color=58a6ff&style=flat-square&label=views)](https://github.com/ege-arhan)
 [![Followers](https://img.shields.io/github/followers/ege-arhan?style=flat-square&color=58a6ff)](https://github.com/ege-arhan?tab=followers)
-[![Repos](https://img.shields.io/badge/repos-52-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
+[![Repos](https://img.shields.io/badge/repos-54-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
 
 </div>
 
@@ -21,7 +21,7 @@ ege = {
     "stack": ["Python", "TypeScript", "Docker", "Linux"],
     "affiliation": "INOVENS · Hackathons · Client Projects",
     "building": ["mcp-forge", "mcp-sanity"],
-    "open_source": "46 PRs across 25 upstream repos, September 2026",
+    "open_source": "48 PRs across 26 upstream repos, September 2026",
     "motto": "Automate everything. Ship fast. Keep it simple."
 }
 ```
@@ -102,7 +102,7 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*46 PRs · 25 upstream repos · 9 merged · 23 in review · September 2026*
+*48 PRs · 26 upstream repos · 9 merged · 24 in review · September 2026*
 
 **Merged**
 
@@ -133,9 +133,9 @@ ege = {
 | [#17699](https://github.com/langfuse/langfuse/pull/17699) | `langfuse/langfuse` (35k⭐) | Request usage in streamed OpenAI-compatible calls so cost is recorded |
 | [#5133](https://github.com/PrefectHQ/fastmcp/pull/5133) | `PrefectHQ/fastmcp` (28k⭐) | fix(resources): strip URI fragment before matching query params |
 | [#12799](https://github.com/deepset-ai/haystack/pull/12799) | `deepset-ai/haystack` (27k⭐) | LLMRanker returns documents unranked on None query instead of crashing |
-| [#2830](https://github.com/modelcontextprotocol/typescript-sdk/pull/2830) | `modelcontextprotocol/typescript-sdk` (13k⭐) | Settle pending requests when the SSE response leg ends early |
+| [#34214](https://github.com/dagster-io/dagster/pull/34214) | `dagster-io/dagster` (16k⭐) | Fix partitioned asset job with automation_condition failing on subset an… |
 
-Plus open work in `sarracenia`, `Claude-Red`, `zemberek-nlp`, `whisper-asr-webservice`, `astronomer-cosmos`, `petdex`, `ddgs`, `memtrace-public`.
+Plus open work in `sarracenia`, `Claude-Red`, `zemberek-nlp`, `whisper-asr-webservice`, `astronomer-cosmos`, `petdex`, `ddgs`, `typescript-sdk`, `memtrace-public`.
 
 ---
 
