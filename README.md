@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ege-arhan&color=58a6ff&style=flat-square&label=views)](https://github.com/ege-arhan)
 [![Followers](https://img.shields.io/github/followers/ege-arhan?style=flat-square&color=58a6ff)](https://github.com/ege-arhan?tab=followers)
-[![Repos](https://img.shields.io/badge/repos-50-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
+[![Repos](https://img.shields.io/badge/repos-52-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
 
 </div>
 
@@ -21,7 +21,7 @@ ege = {
     "stack": ["Python", "TypeScript", "Docker", "Linux"],
     "affiliation": "INOVENS · Hackathons · Client Projects",
     "building": ["mcp-forge", "mcp-sanity"],
-    "open_source": "42 PRs across 24 upstream repos, September 2026",
+    "open_source": "46 PRs across 25 upstream repos, September 2026",
     "motto": "Automate everything. Ship fast. Keep it simple."
 }
 ```
@@ -102,7 +102,7 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*42 PRs · 24 upstream repos · 9 merged · 22 in review · September 2026*
+*46 PRs · 25 upstream repos · 9 merged · 23 in review · September 2026*
 
 **Merged**
 
@@ -130,12 +130,12 @@ ege = {
 | [#41057](https://github.com/BerriAI/litellm/pull/41057) | `BerriAI/litellm` (59k⭐) | fix(bedrock): keep mid-conversation system messages in place on converse… |
 | [#41012](https://github.com/BerriAI/litellm/pull/41012) | `BerriAI/litellm` (59k⭐) | fix(proxy): case-insensitive User-Agent header lookup in _get_user_agent… |
 | [#13278](https://github.com/continuedev/continue/pull/13278) | `continuedev/continue` (36k⭐) | fix: correlate id-less parallel tool-call fragments by stream index |
+| [#17699](https://github.com/langfuse/langfuse/pull/17699) | `langfuse/langfuse` (35k⭐) | Request usage in streamed OpenAI-compatible calls so cost is recorded |
 | [#5133](https://github.com/PrefectHQ/fastmcp/pull/5133) | `PrefectHQ/fastmcp` (28k⭐) | fix(resources): strip URI fragment before matching query params |
 | [#12799](https://github.com/deepset-ai/haystack/pull/12799) | `deepset-ai/haystack` (27k⭐) | LLMRanker returns documents unranked on None query instead of crashing |
 | [#2830](https://github.com/modelcontextprotocol/typescript-sdk/pull/2830) | `modelcontextprotocol/typescript-sdk` (13k⭐) | Settle pending requests when the SSE response leg ends early |
-| [#25](https://github.com/SnailSploit/Claude-Red/pull/25) | `SnailSploit/Claude-Red` (6.3k⭐) | fix: use RFC-reserved names instead of live attacker.com in examples |
 
-Plus open work in `sarracenia`, `zemberek-nlp`, `whisper-asr-webservice`, `astronomer-cosmos`, `petdex`, `ddgs`, `memtrace-public`.
+Plus open work in `sarracenia`, `Claude-Red`, `zemberek-nlp`, `whisper-asr-webservice`, `astronomer-cosmos`, `petdex`, `ddgs`, `memtrace-public`.
 
 ---
 
