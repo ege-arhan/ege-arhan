@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ege-arhan&color=58a6ff&style=flat-square&label=views)](https://github.com/ege-arhan)
 [![Followers](https://img.shields.io/github/followers/ege-arhan?style=flat-square&color=58a6ff)](https://github.com/ege-arhan?tab=followers)
-[![Repos](https://img.shields.io/badge/repos-54-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
+[![Repos](https://img.shields.io/badge/repos-56-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
 
 </div>
 
@@ -21,7 +21,7 @@ ege = {
     "stack": ["Python", "TypeScript", "Docker", "Linux"],
     "affiliation": "INOVENS · Hackathons · Client Projects",
     "building": ["mcp-forge", "mcp-sanity"],
-    "open_source": "48 PRs across 25 upstream repos, September 2026",
+    "open_source": "50 PRs across 27 upstream repos, September 2026",
     "motto": "Automate everything. Ship fast. Keep it simple."
 }
 ```
@@ -102,7 +102,7 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*48 PRs · 25 upstream repos · 9 merged · 22 in review · September 2026*
+*50 PRs · 27 upstream repos · 9 merged · 24 in review · September 2026*
 
 **Merged**
 
@@ -135,7 +135,7 @@ ege = {
 | [#12799](https://github.com/deepset-ai/haystack/pull/12799) | `deepset-ai/haystack` (27k⭐) | LLMRanker returns documents unranked on None query instead of crashing |
 | [#34214](https://github.com/dagster-io/dagster/pull/34214) | `dagster-io/dagster` (16k⭐) | Fix partitioned asset job with automation_condition failing on subset an… |
 
-Plus open work in `sarracenia`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `petdex`, `ddgs`, `typescript-sdk`, `memtrace-public`.
+Plus open work in `starlette`, `uvicorn`, `sarracenia`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `petdex`, `ddgs`, `typescript-sdk`, `memtrace-public`.
 
 ---
 
