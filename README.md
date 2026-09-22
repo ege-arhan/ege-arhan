@@ -21,7 +21,7 @@ ege = {
     "stack": ["Python", "TypeScript", "Docker", "Linux"],
     "affiliation": "INOVENS · Hackathons · Client Projects",
     "building": ["mcp-forge", "mcp-sanity"],
-    "open_source": "50 PRs across 27 upstream repos, September 2026",
+    "open_source": "50 PRs across 25 upstream repos, September 2026",
     "motto": "Automate everything. Ship fast. Keep it simple."
 }
 ```
@@ -102,12 +102,13 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*50 PRs · 27 upstream repos · 9 merged · 24 in review · September 2026*
+*50 PRs · 25 upstream repos · 10 merged · 21 in review · September 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#12799](https://github.com/deepset-ai/haystack/pull/12799) | `deepset-ai/haystack` (27k⭐) | LLMRanker returns documents unranked on None query instead of crashing |
 | [#48864](https://github.com/huggingface/transformers/pull/48864) | `huggingface/transformers` (166k⭐) | fix(vibevoice-asr): use integer ceiling division for audio token count |
 | [#554](https://github.com/agentguard-ai/tealtiger/pull/554) | `agentguard-ai/tealtiger` | docs(mcp): add Continue + Windsurf client configs (follow-up to #548) |
 | [#303](https://github.com/sara-czasak/py-simple-wrap/pull/303) | `sara-czasak/py-simple-wrap` | feat(easy_random): add generate_password helper |
@@ -132,10 +133,10 @@ ege = {
 | [#13278](https://github.com/continuedev/continue/pull/13278) | `continuedev/continue` (36k⭐) | fix: correlate id-less parallel tool-call fragments by stream index |
 | [#17699](https://github.com/langfuse/langfuse/pull/17699) | `langfuse/langfuse` (35k⭐) | Request usage in streamed OpenAI-compatible calls so cost is recorded |
 | [#5133](https://github.com/PrefectHQ/fastmcp/pull/5133) | `PrefectHQ/fastmcp` (28k⭐) | fix(resources): strip URI fragment before matching query params |
-| [#12799](https://github.com/deepset-ai/haystack/pull/12799) | `deepset-ai/haystack` (27k⭐) | LLMRanker returns documents unranked on None query instead of crashing |
 | [#34214](https://github.com/dagster-io/dagster/pull/34214) | `dagster-io/dagster` (16k⭐) | Fix partitioned asset job with automation_condition failing on subset an… |
+| [#2830](https://github.com/modelcontextprotocol/typescript-sdk/pull/2830) | `modelcontextprotocol/typescript-sdk` (13k⭐) | Settle pending requests when the SSE response leg ends early |
 
-Plus open work in `starlette`, `uvicorn`, `sarracenia`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `petdex`, `ddgs`, `typescript-sdk`, `memtrace-public`.
+Plus open work in `sarracenia`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `petdex`, `ddgs`, `memtrace-public`.
 
 ---
 
