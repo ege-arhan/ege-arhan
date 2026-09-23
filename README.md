@@ -20,7 +20,7 @@ ege = {
     "focus": ["LLM Automation", "Self-hosted AI", "Open Source"],
     "stack": ["Python", "TypeScript", "Docker", "Linux"],
     "affiliation": "INOVENS · Hackathons · Client Projects",
-    "building": ["mcp-forge", "mcp-sanity"],
+    "building": ["TrustLaya-S", "mcp-forge", "mcp-sanity"],
     "open_source": "54 PRs across 24 upstream repos, September 2026",
     "motto": "Automate everything. Ship fast. Keep it simple."
 }
@@ -144,6 +144,7 @@ Plus open work in `sarracenia`, `Claude-Red`, `whisper-asr-webservice`, `astrono
 
 | Project | What it does |
 |---------|--------------|
+| [`TrustLaya-S`](https://github.com/ege-arhan/trustlaya-s) · [Model](https://huggingface.co/xzwq/TrustLaya-S) | 42M Turkish-first AI safety triage model; ONNX edge inference, policy engine, and independently measured limitations |
 | [`mcp-forge`](https://github.com/ege-arhan/mcp-forge) | One-command MCP server scaffolder — Python/TS templates, Docker, inspector-verified handshakes |
 | [`mcp-sanity`](https://github.com/ege-arhan/mcp-sanity) | Live doctor for MCP configs — discovers Claude Desktop/Cursor/Codex servers, spawns each one, probes the handshake, names the broken one |
 
