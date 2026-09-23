@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ege-arhan&color=58a6ff&style=flat-square&label=views)](https://github.com/ege-arhan)
 [![Followers](https://img.shields.io/github/followers/ege-arhan?style=flat-square&color=58a6ff)](https://github.com/ege-arhan?tab=followers)
-[![Repos](https://img.shields.io/badge/repos-56-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
+[![Repos](https://img.shields.io/badge/repos-58-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
 
 </div>
 
@@ -21,7 +21,7 @@ ege = {
     "stack": ["Python", "TypeScript", "Docker", "Linux"],
     "affiliation": "INOVENS · Hackathons · Client Projects",
     "building": ["mcp-forge", "mcp-sanity"],
-    "open_source": "50 PRs across 24 upstream repos, September 2026",
+    "open_source": "54 PRs across 24 upstream repos, September 2026",
     "motto": "Automate everything. Ship fast. Keep it simple."
 }
 ```
@@ -102,7 +102,7 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*50 PRs · 24 upstream repos · 10 merged · 20 in review · September 2026*
+*54 PRs · 24 upstream repos · 10 merged · 22 in review · September 2026*
 
 **Merged**
 
@@ -123,7 +123,9 @@ ege = {
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#18608](https://github.com/ollama/ollama/pull/18608) | `ollama/ollama` (181k⭐) | Support max_completion_tokens as a generation cap |
 | [#18520](https://github.com/ollama/ollama/pull/18520) | `ollama/ollama` (181k⭐) | Allow 96-char model names so long HF GGUF pulls validate |
+| [#58341](https://github.com/vllm-project/vllm/pull/58341) | `vllm-project/vllm` (92k⭐) | Guard /invocations with the API key check |
 | [#57518](https://github.com/vllm-project/vllm/pull/57518) | `vllm-project/vllm` (92k⭐) | LoRA device lookup falls through to packed weights when repacking clears… |
 | [#8248](https://github.com/microsoft/autogen/pull/8248) | `microsoft/autogen` (61k⭐) | Carry JSON Schema type for optional tool fields |
 | [#41572](https://github.com/BerriAI/litellm/pull/41572) | `BerriAI/litellm` (59k⭐) | fix(proxy): guard SlackAlerting periodic_flush start on repeated update_… |
@@ -133,10 +135,8 @@ ege = {
 | [#13278](https://github.com/continuedev/continue/pull/13278) | `continuedev/continue` (36k⭐) | fix: correlate id-less parallel tool-call fragments by stream index |
 | [#17699](https://github.com/langfuse/langfuse/pull/17699) | `langfuse/langfuse` (35k⭐) | Request usage in streamed OpenAI-compatible calls so cost is recorded |
 | [#34214](https://github.com/dagster-io/dagster/pull/34214) | `dagster-io/dagster` (16k⭐) | Fix partitioned asset job with automation_condition failing on subset an… |
-| [#2830](https://github.com/modelcontextprotocol/typescript-sdk/pull/2830) | `modelcontextprotocol/typescript-sdk` (13k⭐) | Settle pending requests when the SSE response leg ends early |
-| [#25](https://github.com/SnailSploit/Claude-Red/pull/25) | `SnailSploit/Claude-Red` (6.3k⭐) | fix: use RFC-reserved names instead of live attacker.com in examples |
 
-Plus open work in `sarracenia`, `whisper-asr-webservice`, `astronomer-cosmos`, `petdex`, `ddgs`, `memtrace-public`.
+Plus open work in `sarracenia`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `petdex`, `ddgs`, `typescript-sdk`, `memtrace-public`.
 
 ---
 
