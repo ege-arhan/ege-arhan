@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ege-arhan&color=58a6ff&style=flat-square&label=views)](https://github.com/ege-arhan)
 [![Followers](https://img.shields.io/github/followers/ege-arhan?style=flat-square&color=58a6ff)](https://github.com/ege-arhan?tab=followers)
-[![Repos](https://img.shields.io/badge/repos-58-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
+[![Repos](https://img.shields.io/badge/repos-34-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
 
 </div>
 
@@ -144,7 +144,6 @@ Plus open work in `sarracenia`, `Claude-Red`, `whisper-asr-webservice`, `astrono
 
 | Project | What it does |
 |---------|--------------|
-| [`TrustLaya-S`](https://github.com/ege-arhan/trustlaya-s) · [Model](https://huggingface.co/xzwq/TrustLaya-S) · [Demo](https://huggingface.co/spaces/xzwq/TrustLaya-S-demo) · [Dataset](https://huggingface.co/datasets/xzwq/TrustLaya-S-synthetic) | 42M Turkish-first AI safety triage model; ONNX edge inference, policy engine, and independently measured limitations |
 | [`mcp-forge`](https://github.com/ege-arhan/mcp-forge) | One-command MCP server scaffolder — Python/TS templates, Docker, inspector-verified handshakes |
 | [`mcp-sanity`](https://github.com/ege-arhan/mcp-sanity) | Live doctor for MCP configs — discovers Claude Desktop/Cursor/Codex servers, spawns each one, probes the handshake, names the broken one |
 
