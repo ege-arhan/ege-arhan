@@ -21,7 +21,7 @@ ege = {
     "stack": ["Python", "TypeScript", "Docker", "Linux"],
     "affiliation": "INOVENS · Hackathons · Client Projects",
     "building": ["TrustLaya-S", "mcp-forge", "mcp-sanity"],
-    "open_source": "55 PRs across 25 upstream repos, September 2026",
+    "open_source": "56 PRs across 25 upstream repos, September 2026",
     "motto": "Automate everything. Ship fast. Keep it simple."
 }
 ```
@@ -102,7 +102,7 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*55 PRs · 25 upstream repos · 11 merged · 21 in review · September 2026*
+*56 PRs · 25 upstream repos · 11 merged · 22 in review · September 2026*
 
 **Merged**
 
@@ -129,15 +129,15 @@ ege = {
 | [#58341](https://github.com/vllm-project/vllm/pull/58341) | `vllm-project/vllm` (92k⭐) | Guard /invocations with the API key check |
 | [#57518](https://github.com/vllm-project/vllm/pull/57518) | `vllm-project/vllm` (92k⭐) | LoRA device lookup falls through to packed weights when repacking clears… |
 | [#8248](https://github.com/microsoft/autogen/pull/8248) | `microsoft/autogen` (61k⭐) | Carry JSON Schema type for optional tool fields |
+| [#43145](https://github.com/BerriAI/litellm/pull/43145) | `BerriAI/litellm` (59k⭐) | fix(utils): pass allowed_tools tool_choice through to providers |
 | [#41572](https://github.com/BerriAI/litellm/pull/41572) | `BerriAI/litellm` (59k⭐) | fix(proxy): guard SlackAlerting periodic_flush start on repeated update_… |
 | [#41243](https://github.com/BerriAI/litellm/pull/41243) | `BerriAI/litellm` (59k⭐) | fix(passthrough): keep adaptive thinking/effort on native /v1/messages p… |
 | [#41012](https://github.com/BerriAI/litellm/pull/41012) | `BerriAI/litellm` (59k⭐) | fix(proxy): case-insensitive User-Agent header lookup in _get_user_agent… |
 | [#13278](https://github.com/continuedev/continue/pull/13278) | `continuedev/continue` (36k⭐) | fix: correlate id-less parallel tool-call fragments by stream index |
 | [#17699](https://github.com/langfuse/langfuse/pull/17699) | `langfuse/langfuse` (35k⭐) | Request usage in streamed OpenAI-compatible calls so cost is recorded |
 | [#34214](https://github.com/dagster-io/dagster/pull/34214) | `dagster-io/dagster` (16k⭐) | Fix partitioned asset job with automation_condition failing on subset an… |
-| [#2830](https://github.com/modelcontextprotocol/typescript-sdk/pull/2830) | `modelcontextprotocol/typescript-sdk` (13k⭐) | Settle pending requests when the SSE response leg ends early |
 
-Plus open work in `sarracenia`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `petdex`, `ddgs`, `memtrace-public`.
+Plus open work in `sarracenia`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `petdex`, `ddgs`, `typescript-sdk`, `memtrace-public`.
 
 ---
 
