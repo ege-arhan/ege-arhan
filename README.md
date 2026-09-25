@@ -21,7 +21,7 @@ ege = {
     "stack": ["Python", "TypeScript", "Docker", "Linux"],
     "affiliation": "INOVENS · Hackathons · Client Projects",
     "building": ["TrustLaya-S", "mcp-forge", "mcp-sanity"],
-    "open_source": "57 PRs across 25 upstream repos, September 2026",
+    "open_source": "57 PRs across 24 upstream repos, September 2026",
     "motto": "Automate everything. Ship fast. Keep it simple."
 }
 ```
@@ -102,7 +102,7 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*57 PRs · 25 upstream repos · 11 merged · 23 in review · September 2026*
+*57 PRs · 24 upstream repos · 11 merged · 22 in review · September 2026*
 
 **Merged**
 
@@ -137,7 +137,7 @@ ege = {
 | [#17699](https://github.com/langfuse/langfuse/pull/17699) | `langfuse/langfuse` (35k⭐) | Request usage in streamed OpenAI-compatible calls so cost is recorded |
 | [#34214](https://github.com/dagster-io/dagster/pull/34214) | `dagster-io/dagster` (16k⭐) | Fix partitioned asset job with automation_condition failing on subset an… |
 
-Plus open work in `sarracenia`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `codex-switcher`, `petdex`, `ddgs`, `typescript-sdk`, `memtrace-public`.
+Plus open work in `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `codex-switcher`, `petdex`, `ddgs`, `typescript-sdk`, `memtrace-public`.
 
 ---
 
