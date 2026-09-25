@@ -102,12 +102,13 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*55 PRs · 25 upstream repos · 10 merged · 23 in review · September 2026*
+*55 PRs · 25 upstream repos · 11 merged · 22 in review · September 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#1](https://github.com/bnku/codex-switcher/pull/1) | `bnku/codex-switcher` | feat: resume macOS desktop sessions after account rotation |
 | [#12799](https://github.com/deepset-ai/haystack/pull/12799) | `deepset-ai/haystack` (27k⭐) | LLMRanker returns documents unranked on None query instead of crashing |
 | [#48864](https://github.com/huggingface/transformers/pull/48864) | `huggingface/transformers` (166k⭐) | fix(vibevoice-asr): use integer ceiling division for audio token count |
 | [#554](https://github.com/agentguard-ai/tealtiger/pull/554) | `agentguard-ai/tealtiger` | docs(mcp): add Continue + Windsurf client configs (follow-up to #548) |
@@ -136,7 +137,7 @@ ege = {
 | [#17699](https://github.com/langfuse/langfuse/pull/17699) | `langfuse/langfuse` (35k⭐) | Request usage in streamed OpenAI-compatible calls so cost is recorded |
 | [#34214](https://github.com/dagster-io/dagster/pull/34214) | `dagster-io/dagster` (16k⭐) | Fix partitioned asset job with automation_condition failing on subset an… |
 
-Plus open work in `sarracenia`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `codex-switcher`, `petdex`, `ddgs`, `typescript-sdk`, `memtrace-public`.
+Plus open work in `sarracenia`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `petdex`, `ddgs`, `typescript-sdk`, `memtrace-public`.
 
 ---
 
