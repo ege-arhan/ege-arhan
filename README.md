@@ -21,7 +21,7 @@ ege = {
     "stack": ["Python", "TypeScript", "Docker", "Linux"],
     "affiliation": "INOVENS · Hackathons · Client Projects",
     "building": ["TrustLaya-S", "mcp-forge", "mcp-sanity"],
-    "open_source": "59 PRs across 25 upstream repos, September 2026",
+    "open_source": "60 PRs across 25 upstream repos, September 2026",
     "motto": "Automate everything. Ship fast. Keep it simple."
 }
 ```
@@ -102,7 +102,7 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*59 PRs · 25 upstream repos · 12 merged · 23 in review · September 2026*
+*60 PRs · 25 upstream repos · 12 merged · 24 in review · September 2026*
 
 **Merged**
 
@@ -138,7 +138,7 @@ ege = {
 | [#66499](https://github.com/ray-project/ray/pull/66499) | `ray-project/ray` (44k⭐) | Fix train_test_split sizes lost to float truncation |
 | [#13278](https://github.com/continuedev/continue/pull/13278) | `continuedev/continue` (36k⭐) | fix: correlate id-less parallel tool-call fragments by stream index |
 
-Plus open work in `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `petdex`, `dagster`, `ddgs`, `langfuse`, `typescript-sdk`, `memtrace-public`.
+Plus open work in `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `codex-switcher`, `petdex`, `dagster`, `ddgs`, `langfuse`, `typescript-sdk`, `memtrace-public`.
 
 ---
 
