@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ege-arhan&color=58a6ff&style=flat-square&label=views)](https://github.com/ege-arhan)
 [![Followers](https://img.shields.io/github/followers/ege-arhan?style=flat-square&color=58a6ff)](https://github.com/ege-arhan?tab=followers)
-[![Repos](https://img.shields.io/badge/repos-38-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
+[![Repos](https://img.shields.io/badge/repos-39-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
 
 </div>
 
