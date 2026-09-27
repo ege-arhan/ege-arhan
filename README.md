@@ -102,12 +102,13 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*60 PRs · 25 upstream repos · 12 merged · 24 in review · September 2026*
+*60 PRs · 25 upstream repos · 13 merged · 23 in review · September 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#3](https://github.com/bnku/codex-switcher/pull/3) | `bnku/codex-switcher` | fix: choose supported model when recovering after account switch |
 | [#2](https://github.com/bnku/codex-switcher/pull/2) | `bnku/codex-switcher` | fix: resume every limited desktop task after account switch |
 | [#1](https://github.com/bnku/codex-switcher/pull/1) | `bnku/codex-switcher` | feat: resume macOS desktop sessions after account rotation |
 | [#12799](https://github.com/deepset-ai/haystack/pull/12799) | `deepset-ai/haystack` (27k⭐) | LLMRanker returns documents unranked on None query instead of crashing |
@@ -138,7 +139,7 @@ ege = {
 | [#66499](https://github.com/ray-project/ray/pull/66499) | `ray-project/ray` (44k⭐) | Fix train_test_split sizes lost to float truncation |
 | [#13278](https://github.com/continuedev/continue/pull/13278) | `continuedev/continue` (36k⭐) | fix: correlate id-less parallel tool-call fragments by stream index |
 
-Plus open work in `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `codex-switcher`, `petdex`, `dagster`, `ddgs`, `langfuse`, `typescript-sdk`, `memtrace-public`.
+Plus open work in `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `petdex`, `dagster`, `ddgs`, `langfuse`, `typescript-sdk`, `memtrace-public`.
 
 ---
 
