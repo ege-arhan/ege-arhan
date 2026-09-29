@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ege-arhan&color=58a6ff&style=flat-square&label=views)](https://github.com/ege-arhan)
 [![Followers](https://img.shields.io/github/followers/ege-arhan?style=flat-square&color=58a6ff)](https://github.com/ege-arhan?tab=followers)
-[![Repos](https://img.shields.io/badge/repos-39-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
+[![Repos](https://img.shields.io/badge/repos-40-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
 
 </div>
 
@@ -21,7 +21,7 @@ ege = {
     "stack": ["Python", "TypeScript", "Docker", "Linux"],
     "affiliation": "INOVENS · Hackathons · Client Projects",
     "building": ["TrustLaya-S", "mcp-forge", "mcp-sanity"],
-    "open_source": "60 PRs across 24 upstream repos, September 2026",
+    "open_source": "65 PRs across 25 upstream repos, September 2026",
     "motto": "Automate everything. Ship fast. Keep it simple."
 }
 ```
@@ -102,7 +102,7 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*60 PRs · 24 upstream repos · 13 merged · 22 in review · September 2026*
+*65 PRs · 25 upstream repos · 13 merged · 27 in review · September 2026*
 
 **Merged**
 
@@ -139,7 +139,7 @@ ege = {
 | [#66499](https://github.com/ray-project/ray/pull/66499) | `ray-project/ray` (44k⭐) | Fix train_test_split sizes lost to float truncation |
 | [#13278](https://github.com/continuedev/continue/pull/13278) | `continuedev/continue` (36k⭐) | fix: correlate id-less parallel tool-call fragments by stream index |
 
-Plus open work in `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `dagster`, `ddgs`, `langfuse`, `typescript-sdk`, `memtrace-public`.
+Plus open work in `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `dagster`, `9router`, `ddgs`, `langfuse`, `typescript-sdk`, `memtrace-public`.
 
 ---
 
