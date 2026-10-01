@@ -102,12 +102,13 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*72 PRs · 30 upstream repos · 14 merged · 31 in review · October 2026*
+*72 PRs · 30 upstream repos · 15 merged · 30 in review · October 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#2463](https://github.com/debpalash/VoiceStudio/pull/2463) | `debpalash/VoiceStudio` (50k⭐) | fix(download): validate HTTP 206 and Content-Range in segmented download |
 | [#258](https://github.com/mvschwarz/openrig/pull/258) | `mvschwarz/openrig` (3.1k⭐) | fix(daemon): create output directory when packing bundle |
 | [#3](https://github.com/bnku/codex-switcher/pull/3) | `bnku/codex-switcher` | fix: choose supported model when recovering after account switch |
 | [#2](https://github.com/bnku/codex-switcher/pull/2) | `bnku/codex-switcher` | fix: resume every limited desktop task after account switch |
@@ -137,10 +138,10 @@ ege = {
 | [#41572](https://github.com/BerriAI/litellm/pull/41572) | `BerriAI/litellm` (59k⭐) | fix(proxy): guard SlackAlerting periodic_flush start on repeated update_… |
 | [#41243](https://github.com/BerriAI/litellm/pull/41243) | `BerriAI/litellm` (59k⭐) | fix(passthrough): keep adaptive thinking/effort on native /v1/messages p… |
 | [#41012](https://github.com/BerriAI/litellm/pull/41012) | `BerriAI/litellm` (59k⭐) | fix(proxy): case-insensitive User-Agent header lookup in _get_user_agent… |
-| [#2463](https://github.com/debpalash/VoiceStudio/pull/2463) | `debpalash/VoiceStudio` (50k⭐) | fix(download): validate HTTP 206 and Content-Range in segmented download |
 | [#66499](https://github.com/ray-project/ray/pull/66499) | `ray-project/ray` (44k⭐) | Fix train_test_split sizes lost to float truncation |
+| [#13278](https://github.com/continuedev/continue/pull/13278) | `continuedev/continue` (36k⭐) | fix: correlate id-less parallel tool-call fragments by stream index |
 
-Plus open work in `codex-switcher`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `continue`, `dagster`, `9router`, `ddgs`, `hydradb`, `langfuse`, `whatsapp-mcp`, `typescript-sdk`, `memtrace-public`.
+Plus open work in `codex-switcher`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `dagster`, `9router`, `ddgs`, `hydradb`, `langfuse`, `whatsapp-mcp`, `typescript-sdk`, `memtrace-public`.
 
 ---
 
