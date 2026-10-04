@@ -102,12 +102,13 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*72 PRs · 30 upstream repos · 15 merged · 30 in review · October 2026*
+*72 PRs · 30 upstream repos · 16 merged · 30 in review · October 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#10278](https://github.com/getmoto/moto/pull/10278) | `getmoto/moto` (10k⭐) | Lambda: support KMSKeyArn parameter in CreateFunction |
 | [#2463](https://github.com/debpalash/VoiceStudio/pull/2463) | `debpalash/VoiceStudio` (50k⭐) | fix(download): validate HTTP 206 and Content-Range in segmented download |
 | [#258](https://github.com/mvschwarz/openrig/pull/258) | `mvschwarz/openrig` (3.1k⭐) | fix(daemon): create output directory when packing bundle |
 | [#3](https://github.com/bnku/codex-switcher/pull/3) | `bnku/codex-switcher` | fix: choose supported model when recovering after account switch |
