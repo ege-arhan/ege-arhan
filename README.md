@@ -102,12 +102,14 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*77 PRs · 35 upstream repos · 15 merged · 35 in review · October 2026*
+*77 PRs · 35 upstream repos · 17 merged · 33 in review · October 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#8247](https://github.com/maximhq/bifrost/pull/8247) | `maximhq/bifrost` (8.7k⭐) | fix(logstore): truncate ClickHouse input histories to last message in li… |
+| [#15732](https://github.com/pingdotgg/t3code/pull/15732) | `pingdotgg/t3code` (25k⭐) | docs(install): polish binary install destination phrasing |
 | [#2463](https://github.com/debpalash/VoiceStudio/pull/2463) | `debpalash/VoiceStudio` (50k⭐) | fix(download): validate HTTP 206 and Content-Range in segmented download |
 | [#258](https://github.com/mvschwarz/openrig/pull/258) | `mvschwarz/openrig` (3.1k⭐) | fix(daemon): create output directory when packing bundle |
 | [#3](https://github.com/bnku/codex-switcher/pull/3) | `bnku/codex-switcher` | fix: choose supported model when recovering after account switch |
@@ -141,7 +143,7 @@ ege = {
 | [#41012](https://github.com/BerriAI/litellm/pull/41012) | `BerriAI/litellm` (59k⭐) | fix(proxy): case-insensitive User-Agent header lookup in _get_user_agent… |
 | [#66499](https://github.com/ray-project/ray/pull/66499) | `ray-project/ray` (44k⭐) | Fix train_test_split sizes lost to float truncation |
 
-Plus open work in `codex-switcher`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `continue`, `dagster`, `9router`, `ddgs`, `hydradb`, `langfuse`, `mcp-agent`, `whatsapp-mcp`, `bifrost`, `typescript-sdk`, `omnigent`, `t3code`, `memtrace-public`.
+Plus open work in `codex-switcher`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `continue`, `dagster`, `9router`, `ddgs`, `hydradb`, `langfuse`, `mcp-agent`, `whatsapp-mcp`, `typescript-sdk`, `omnigent`, `memtrace-public`.
 
 ---
 
