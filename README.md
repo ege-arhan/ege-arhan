@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ege-arhan&color=58a6ff&style=flat-square&label=views)](https://github.com/ege-arhan)
 [![Followers](https://img.shields.io/github/followers/ege-arhan?style=flat-square&color=58a6ff)](https://github.com/ege-arhan?tab=followers)
-[![Repos](https://img.shields.io/badge/repos-55-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
+[![Repos](https://img.shields.io/badge/repos-56-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
 
 </div>
 
@@ -21,7 +21,7 @@ ege = {
     "stack": ["Python", "TypeScript", "Docker", "Linux"],
     "affiliation": "INOVENS · Hackathons · Client Projects",
     "building": ["TrustLaya-S", "mcp-forge", "mcp-sanity"],
-    "open_source": "77 PRs across 35 upstream repos, October 2026",
+    "open_source": "78 PRs across 36 upstream repos, October 2026",
     "motto": "Automate everything. Ship fast. Keep it simple."
 }
 ```
@@ -102,7 +102,7 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*77 PRs · 35 upstream repos · 17 merged · 33 in review · October 2026*
+*78 PRs · 36 upstream repos · 17 merged · 34 in review · October 2026*
 
 **Merged**
 
@@ -141,9 +141,9 @@ ege = {
 | [#41572](https://github.com/BerriAI/litellm/pull/41572) | `BerriAI/litellm` (59k⭐) | fix(proxy): guard SlackAlerting periodic_flush start on repeated update_… |
 | [#41243](https://github.com/BerriAI/litellm/pull/41243) | `BerriAI/litellm` (59k⭐) | fix(passthrough): keep adaptive thinking/effort on native /v1/messages p… |
 | [#41012](https://github.com/BerriAI/litellm/pull/41012) | `BerriAI/litellm` (59k⭐) | fix(proxy): case-insensitive User-Agent header lookup in _get_user_agent… |
-| [#66499](https://github.com/ray-project/ray/pull/66499) | `ray-project/ray` (44k⭐) | Fix train_test_split sizes lost to float truncation |
+| [#1699](https://github.com/alibaba/open-code-review/pull/1699) | `alibaba/open-code-review` (46k⭐) | fix(session): return empty slice for nonexistent sessions directory |
 
-Plus open work in `codex-switcher`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `continue`, `dagster`, `9router`, `ddgs`, `hydradb`, `langfuse`, `mcp-agent`, `whatsapp-mcp`, `typescript-sdk`, `omnigent`, `memtrace-public`.
+Plus open work in `codex-switcher`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `continue`, `dagster`, `9router`, `ddgs`, `hydradb`, `langfuse`, `mcp-agent`, `whatsapp-mcp`, `typescript-sdk`, `omnigent`, `ray`, `memtrace-public`.
 
 ---
 
