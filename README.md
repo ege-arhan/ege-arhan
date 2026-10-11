@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ege-arhan&color=58a6ff&style=flat-square&label=views)](https://github.com/ege-arhan)
 [![Followers](https://img.shields.io/github/followers/ege-arhan?style=flat-square&color=58a6ff)](https://github.com/ege-arhan?tab=followers)
-[![Repos](https://img.shields.io/badge/repos-56-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
+[![Repos](https://img.shields.io/badge/repos-57-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
 
 </div>
 
@@ -21,7 +21,7 @@ ege = {
     "stack": ["Python", "TypeScript", "Docker", "Linux"],
     "affiliation": "INOVENS · Hackathons · Client Projects",
     "building": ["TrustLaya-S", "mcp-forge", "mcp-sanity"],
-    "open_source": "78 PRs across 36 upstream repos, October 2026",
+    "open_source": "79 PRs across 37 upstream repos, October 2026",
     "motto": "Automate everything. Ship fast. Keep it simple."
 }
 ```
@@ -102,12 +102,13 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*78 PRs · 36 upstream repos · 17 merged · 34 in review · October 2026*
+*79 PRs · 37 upstream repos · 18 merged · 34 in review · October 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#360](https://github.com/storytold/gridcraft/pull/360) | `storytold/gridcraft` (2.7k⭐) | fix(ribbon): Watch Window layout in Formulas ribbon (#342) |
 | [#8247](https://github.com/maximhq/bifrost/pull/8247) | `maximhq/bifrost` (8.7k⭐) | fix(logstore): truncate ClickHouse input histories to last message in li… |
 | [#15732](https://github.com/pingdotgg/t3code/pull/15732) | `pingdotgg/t3code` (25k⭐) | docs(install): polish binary install destination phrasing |
 | [#2463](https://github.com/debpalash/VoiceStudio/pull/2463) | `debpalash/VoiceStudio` (50k⭐) | fix(download): validate HTTP 206 and Content-Range in segmented download |
