@@ -102,12 +102,13 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*80 PRs · 37 upstream repos · 18 merged · 35 in review · October 2026*
+*80 PRs · 37 upstream repos · 19 merged · 34 in review · October 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#2335](https://github.com/unclecode/crawl4ai/pull/2335) | `unclecode/crawl4ai` (85k⭐) | docs(cli): clarify that --output json requires extraction strategy |
 | [#360](https://github.com/storytold/gridcraft/pull/360) | `storytold/gridcraft` (2.7k⭐) | fix(ribbon): Watch Window layout in Formulas ribbon (#342) |
 | [#8247](https://github.com/maximhq/bifrost/pull/8247) | `maximhq/bifrost` (8.7k⭐) | fix(logstore): truncate ClickHouse input histories to last message in li… |
 | [#15732](https://github.com/pingdotgg/t3code/pull/15732) | `pingdotgg/t3code` (25k⭐) | docs(install): polish binary install destination phrasing |
@@ -136,15 +137,15 @@ ege = {
 | [#18520](https://github.com/ollama/ollama/pull/18520) | `ollama/ollama` (181k⭐) | Allow 96-char model names so long HF GGUF pulls validate |
 | [#58341](https://github.com/vllm-project/vllm/pull/58341) | `vllm-project/vllm` (92k⭐) | Guard /invocations with the API key check |
 | [#57518](https://github.com/vllm-project/vllm/pull/57518) | `vllm-project/vllm` (92k⭐) | LoRA device lookup falls through to packed weights when repacking clears… |
-| [#2335](https://github.com/unclecode/crawl4ai/pull/2335) | `unclecode/crawl4ai` (85k⭐) | docs(cli): clarify that --output json requires extraction strategy |
 | [#8248](https://github.com/microsoft/autogen/pull/8248) | `microsoft/autogen` (61k⭐) | Carry JSON Schema type for optional tool fields |
 | [#43145](https://github.com/BerriAI/litellm/pull/43145) | `BerriAI/litellm` (59k⭐) | fix(utils): pass allowed_tools tool_choice through to providers |
 | [#41572](https://github.com/BerriAI/litellm/pull/41572) | `BerriAI/litellm` (59k⭐) | fix(proxy): guard SlackAlerting periodic_flush start on repeated update_… |
 | [#41243](https://github.com/BerriAI/litellm/pull/41243) | `BerriAI/litellm` (59k⭐) | fix(passthrough): keep adaptive thinking/effort on native /v1/messages p… |
 | [#41012](https://github.com/BerriAI/litellm/pull/41012) | `BerriAI/litellm` (59k⭐) | fix(proxy): case-insensitive User-Agent header lookup in _get_user_agent… |
 | [#1699](https://github.com/alibaba/open-code-review/pull/1699) | `alibaba/open-code-review` (46k⭐) | fix(session): return empty slice for nonexistent sessions directory |
+| [#66499](https://github.com/ray-project/ray/pull/66499) | `ray-project/ray` (44k⭐) | Fix train_test_split sizes lost to float truncation |
 
-Plus open work in `codex-switcher`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `codex-switcher`, `continue`, `dagster`, `9router`, `ddgs`, `hydradb`, `langfuse`, `mcp-agent`, `whatsapp-mcp`, `typescript-sdk`, `omnigent`, `ray`, `memtrace-public`.
+Plus open work in `codex-switcher`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `codex-switcher`, `continue`, `dagster`, `9router`, `ddgs`, `hydradb`, `langfuse`, `mcp-agent`, `whatsapp-mcp`, `typescript-sdk`, `omnigent`, `memtrace-public`.
 
 ---
 
