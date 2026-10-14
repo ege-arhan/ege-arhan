@@ -21,7 +21,7 @@ ege = {
     "stack": ["Python", "TypeScript", "Docker", "Linux"],
     "affiliation": "INOVENS · Hackathons · Client Projects",
     "building": ["TrustLaya-S", "mcp-forge", "mcp-sanity"],
-    "open_source": "80 PRs across 36 upstream repos, October 2026",
+    "open_source": "81 PRs across 36 upstream repos, October 2026",
     "motto": "Automate everything. Ship fast. Keep it simple."
 }
 ```
@@ -102,7 +102,7 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*80 PRs · 36 upstream repos · 19 merged · 33 in review · October 2026*
+*81 PRs · 36 upstream repos · 19 merged · 34 in review · October 2026*
 
 **Merged**
 
@@ -142,10 +142,10 @@ ege = {
 | [#41572](https://github.com/BerriAI/litellm/pull/41572) | `BerriAI/litellm` (59k⭐) | fix(proxy): guard SlackAlerting periodic_flush start on repeated update_… |
 | [#41243](https://github.com/BerriAI/litellm/pull/41243) | `BerriAI/litellm` (59k⭐) | fix(passthrough): keep adaptive thinking/effort on native /v1/messages p… |
 | [#41012](https://github.com/BerriAI/litellm/pull/41012) | `BerriAI/litellm` (59k⭐) | fix(proxy): case-insensitive User-Agent header lookup in _get_user_agent… |
+| [#2834](https://github.com/debpalash/VoiceStudio/pull/2834) | `debpalash/VoiceStudio` (50k⭐) | fix(subtitles): strip ruby pronunciation annotations from spoken text |
 | [#1699](https://github.com/alibaba/open-code-review/pull/1699) | `alibaba/open-code-review` (46k⭐) | fix(session): return empty slice for nonexistent sessions directory |
-| [#66499](https://github.com/ray-project/ray/pull/66499) | `ray-project/ray` (44k⭐) | Fix train_test_split sizes lost to float truncation |
 
-Plus open work in `codex-switcher`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `codex-switcher`, `continue`, `dagster`, `9router`, `ddgs`, `langfuse`, `mcp-agent`, `whatsapp-mcp`, `typescript-sdk`, `omnigent`, `memtrace-public`.
+Plus open work in `codex-switcher`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `codex-switcher`, `continue`, `dagster`, `9router`, `ddgs`, `langfuse`, `mcp-agent`, `whatsapp-mcp`, `typescript-sdk`, `omnigent`, `ray`, `memtrace-public`.
 
 ---
 
