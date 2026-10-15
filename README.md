@@ -102,12 +102,13 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*81 PRs · 36 upstream repos · 19 merged · 34 in review · October 2026*
+*81 PRs · 36 upstream repos · 20 merged · 33 in review · October 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#196](https://github.com/Lampese/codex-switcher/pull/196) | `Lampese/codex-switcher` | fix(storage): deserialize legacy ChatGPT auth mode and data variants (#5… |
 | [#2335](https://github.com/unclecode/crawl4ai/pull/2335) | `unclecode/crawl4ai` (85k⭐) | docs(cli): clarify that --output json requires extraction strategy |
 | [#360](https://github.com/storytold/gridcraft/pull/360) | `storytold/gridcraft` (2.7k⭐) | fix(ribbon): Watch Window layout in Formulas ribbon (#342) |
 | [#8247](https://github.com/maximhq/bifrost/pull/8247) | `maximhq/bifrost` (8.7k⭐) | fix(logstore): truncate ClickHouse input histories to last message in li… |
