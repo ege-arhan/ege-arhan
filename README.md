@@ -21,7 +21,7 @@ ege = {
     "stack": ["Python", "TypeScript", "Docker", "Linux"],
     "affiliation": "INOVENS · Hackathons · Client Projects",
     "building": ["TrustLaya-S", "mcp-forge", "mcp-sanity"],
-    "open_source": "81 PRs across 36 upstream repos, October 2026",
+    "open_source": "81 PRs across 35 upstream repos, October 2026",
     "motto": "Automate everything. Ship fast. Keep it simple."
 }
 ```
@@ -102,7 +102,7 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*81 PRs · 36 upstream repos · 20 merged · 33 in review · October 2026*
+*81 PRs · 35 upstream repos · 20 merged · 32 in review · October 2026*
 
 **Merged**
 
@@ -146,7 +146,7 @@ ege = {
 | [#2834](https://github.com/debpalash/VoiceStudio/pull/2834) | `debpalash/VoiceStudio` (50k⭐) | fix(subtitles): strip ruby pronunciation annotations from spoken text |
 | [#1699](https://github.com/alibaba/open-code-review/pull/1699) | `alibaba/open-code-review` (46k⭐) | fix(session): return empty slice for nonexistent sessions directory |
 
-Plus open work in `codex-switcher`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `codex-switcher`, `continue`, `dagster`, `9router`, `ddgs`, `langfuse`, `mcp-agent`, `whatsapp-mcp`, `typescript-sdk`, `omnigent`, `ray`, `memtrace-public`.
+Plus open work in `codex-switcher`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `codex-switcher`, `continue`, `dagster`, `9router`, `ddgs`, `langfuse`, `mcp-agent`, `whatsapp-mcp`, `typescript-sdk`, `ray`, `memtrace-public`.
 
 ---
 
