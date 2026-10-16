@@ -21,7 +21,7 @@ ege = {
     "stack": ["Python", "TypeScript", "Docker", "Linux"],
     "affiliation": "INOVENS · Hackathons · Client Projects",
     "building": ["TrustLaya-S", "mcp-forge", "mcp-sanity"],
-    "open_source": "81 PRs across 35 upstream repos, October 2026",
+    "open_source": "82 PRs across 35 upstream repos, October 2026",
     "motto": "Automate everything. Ship fast. Keep it simple."
 }
 ```
@@ -102,12 +102,13 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*81 PRs · 35 upstream repos · 20 merged · 32 in review · October 2026*
+*82 PRs · 35 upstream repos · 21 merged · 32 in review · October 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#8649](https://github.com/maximhq/bifrost/pull/8649) | `maximhq/bifrost` (8.7k⭐) | fix(bedrock): exclude converse-only internal fields from InvokeModel bui… |
 | [#196](https://github.com/Lampese/codex-switcher/pull/196) | `Lampese/codex-switcher` | fix(storage): deserialize legacy ChatGPT auth mode and data variants (#5… |
 | [#2335](https://github.com/unclecode/crawl4ai/pull/2335) | `unclecode/crawl4ai` (85k⭐) | docs(cli): clarify that --output json requires extraction strategy |
 | [#360](https://github.com/storytold/gridcraft/pull/360) | `storytold/gridcraft` (2.7k⭐) | fix(ribbon): Watch Window layout in Formulas ribbon (#342) |
