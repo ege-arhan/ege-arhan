@@ -4,7 +4,7 @@
 
 **University student · AI/ML · Automation · INOVENS**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ege-arhan&color=58a6ff&style=flat-square&label=views)](https://github.com/ege-arhan)
+[![Profile Views](https://api.visitorbadge.io/api/visitors?path=ege-arhan&label=views&countColor=%2358a6ff&style=flat-square)](https://github.com/ege-arhan)
 [![Followers](https://img.shields.io/github/followers/ege-arhan?style=flat-square&color=58a6ff)](https://github.com/ege-arhan?tab=followers)
 [![Repos](https://img.shields.io/badge/repos-57-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
 
