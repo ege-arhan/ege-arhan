@@ -6,7 +6,7 @@
 
 [![Profile Views](https://api.visitorbadge.io/api/visitors?path=ege-arhan&label=views&countColor=%2358a6ff&style=flat-square)](https://github.com/ege-arhan)
 [![Followers](https://img.shields.io/github/followers/ege-arhan?style=flat-square&color=58a6ff)](https://github.com/ege-arhan?tab=followers)
-[![Repos](https://img.shields.io/badge/repos-57-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
+[![Repos](https://img.shields.io/badge/repos-61-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
 
 </div>
 
@@ -21,7 +21,7 @@ ege = {
     "stack": ["Python", "TypeScript", "Docker", "Linux"],
     "affiliation": "INOVENS · Hackathons · Client Projects",
     "building": ["TrustLaya-S", "mcp-forge", "mcp-sanity"],
-    "open_source": "82 PRs across 35 upstream repos, October 2026",
+    "open_source": "84 PRs across 36 upstream repos, October 2026",
     "motto": "Automate everything. Ship fast. Keep it simple."
 }
 ```
@@ -102,7 +102,7 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*82 PRs · 35 upstream repos · 21 merged · 32 in review · October 2026*
+*84 PRs · 36 upstream repos · 21 merged · 33 in review · October 2026*
 
 **Merged**
 
@@ -147,7 +147,7 @@ ege = {
 | [#2834](https://github.com/debpalash/VoiceStudio/pull/2834) | `debpalash/VoiceStudio` (50k⭐) | fix(subtitles): strip ruby pronunciation annotations from spoken text |
 | [#1699](https://github.com/alibaba/open-code-review/pull/1699) | `alibaba/open-code-review` (46k⭐) | fix(session): return empty slice for nonexistent sessions directory |
 
-Plus open work in `codex-switcher`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `codex-switcher`, `continue`, `dagster`, `9router`, `ddgs`, `langfuse`, `mcp-agent`, `whatsapp-mcp`, `typescript-sdk`, `ray`, `memtrace-public`.
+Plus open work in `codex-switcher`, `Claude-Red`, `whisper-asr-webservice`, `astronomer-cosmos`, `codex-switcher`, `continue`, `dagster`, `9router`, `ddgs`, `deepseek-recipe`, `langfuse`, `mcp-agent`, `whatsapp-mcp`, `typescript-sdk`, `ray`, `memtrace-public`.
 
 ---
 
