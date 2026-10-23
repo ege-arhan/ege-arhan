@@ -102,12 +102,13 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*90 PRs · 38 upstream repos · 21 merged · 36 in review · October 2026*
+*90 PRs · 38 upstream repos · 22 merged · 35 in review · October 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#8782](https://github.com/maximhq/bifrost/pull/8782) | `maximhq/bifrost` (8.7k⭐) | Stop compat from stripping sampling params on datasheet rows without mod… |
 | [#8649](https://github.com/maximhq/bifrost/pull/8649) | `maximhq/bifrost` (8.7k⭐) | fix(bedrock): exclude converse-only internal fields from InvokeModel bui… |
 | [#196](https://github.com/Lampese/codex-switcher/pull/196) | `Lampese/codex-switcher` | fix(storage): deserialize legacy ChatGPT auth mode and data variants (#5… |
 | [#2335](https://github.com/unclecode/crawl4ai/pull/2335) | `unclecode/crawl4ai` (85k⭐) | docs(cli): clarify that --output json requires extraction strategy |
@@ -147,7 +148,7 @@ ege = {
 | [#2834](https://github.com/debpalash/VoiceStudio/pull/2834) | `debpalash/VoiceStudio` (50k⭐) | fix(subtitles): strip ruby pronunciation annotations from spoken text |
 | [#1699](https://github.com/alibaba/open-code-review/pull/1699) | `alibaba/open-code-review` (46k⭐) | fix(session): return empty slice for nonexistent sessions directory |
 
-Plus open work in `codex-switcher`, `Claude-Red`, `ClawBench`, `whisper-asr-webservice`, `astronomer-cosmos`, `codex-switcher`, `continue`, `dagster`, `9router`, `ddgs`, `deepseek-recipe`, `langfuse`, `mcp-agent`, `whatsapp-mcp`, `bifrost`, `typescript-sdk`, `ray`, `memtrace-public`.
+Plus open work in `codex-switcher`, `Claude-Red`, `ClawBench`, `whisper-asr-webservice`, `astronomer-cosmos`, `codex-switcher`, `continue`, `dagster`, `9router`, `ddgs`, `deepseek-recipe`, `langfuse`, `mcp-agent`, `whatsapp-mcp`, `typescript-sdk`, `ray`, `memtrace-public`.
 
 ---
 
