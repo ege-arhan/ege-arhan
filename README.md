@@ -21,7 +21,7 @@ ege = {
     "stack": ["Python", "TypeScript", "Docker", "Linux"],
     "affiliation": "INOVENS · Hackathons · Client Projects",
     "building": ["TrustLaya-S", "mcp-forge", "mcp-sanity"],
-    "open_source": "92 PRs across 39 upstream repos, October 2026",
+    "open_source": "92 PRs across 38 upstream repos, October 2026",
     "motto": "Automate everything. Ship fast. Keep it simple."
 }
 ```
@@ -102,7 +102,7 @@ ege = {
 
 ### 🌟 Open Source Contributions
 
-*92 PRs · 39 upstream repos · 22 merged · 37 in review · October 2026*
+*92 PRs · 38 upstream repos · 22 merged · 36 in review · October 2026*
 
 **Merged**
 
@@ -139,7 +139,6 @@ ege = {
 | [#18608](https://github.com/ollama/ollama/pull/18608) | `ollama/ollama` (181k⭐) | Support max_completion_tokens as a generation cap |
 | [#18520](https://github.com/ollama/ollama/pull/18520) | `ollama/ollama` (181k⭐) | Allow 96-char model names so long HF GGUF pulls validate |
 | [#49919](https://github.com/huggingface/transformers/pull/49919) | `huggingface/transformers` (166k⭐) | Only treat marimo as a notebook environment when IPython is installed |
-| [#4675](https://github.com/Graphify-Labs/graphify/pull/4675) | `Graphify-Labs/graphify` (133k⭐) | fix(build): resolve a raw-graph import target through the same alias ind… |
 | [#58341](https://github.com/vllm-project/vllm/pull/58341) | `vllm-project/vllm` (92k⭐) | Guard /invocations with the API key check |
 | [#57518](https://github.com/vllm-project/vllm/pull/57518) | `vllm-project/vllm` (92k⭐) | LoRA device lookup falls through to packed weights when repacking clears… |
 | [#8248](https://github.com/microsoft/autogen/pull/8248) | `microsoft/autogen` (61k⭐) | Carry JSON Schema type for optional tool fields |
@@ -147,8 +146,9 @@ ege = {
 | [#41243](https://github.com/BerriAI/litellm/pull/41243) | `BerriAI/litellm` (59k⭐) | fix(passthrough): keep adaptive thinking/effort on native /v1/messages p… |
 | [#41012](https://github.com/BerriAI/litellm/pull/41012) | `BerriAI/litellm` (59k⭐) | fix(proxy): case-insensitive User-Agent header lookup in _get_user_agent… |
 | [#2834](https://github.com/debpalash/VoiceStudio/pull/2834) | `debpalash/VoiceStudio` (50k⭐) | fix(subtitles): strip ruby pronunciation annotations from spoken text |
+| [#1699](https://github.com/alibaba/open-code-review/pull/1699) | `alibaba/open-code-review` (46k⭐) | fix(session): return empty slice for nonexistent sessions directory |
 
-Plus open work in `codex-switcher`, `Claude-Red`, `ClawBench`, `whisper-asr-webservice`, `open-code-review`, `astronomer-cosmos`, `codex-switcher`, `continue`, `dagster`, `9router`, `ddgs`, `deepseek-recipe`, `datasets`, `langfuse`, `mcp-agent`, `whatsapp-mcp`, `typescript-sdk`, `ray`, `memtrace-public`.
+Plus open work in `codex-switcher`, `Claude-Red`, `ClawBench`, `whisper-asr-webservice`, `astronomer-cosmos`, `codex-switcher`, `continue`, `dagster`, `9router`, `ddgs`, `deepseek-recipe`, `datasets`, `langfuse`, `mcp-agent`, `whatsapp-mcp`, `typescript-sdk`, `ray`, `memtrace-public`.
 
 ---
 
