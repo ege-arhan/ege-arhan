@@ -1,150 +1,33 @@
-<div align="center">
+# Hey, I'm Ege 👋
 
-![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ege+%F0%9F%91%8B;AI+%7C+Automation+%7C+Full-Stack;Building+with+LLMs+%2B+Open+Source)
+AI & Automation Engineer | Building practical systems with LLMs, agents, and modern infrastructure.
 
-**University student · AI/ML · Automation · INOVENS**
-
-[![Profile Views](https://api.visitorbadge.io/api/visitors?path=ege-arhan&label=views&countColor=%2358a6ff&style=flat-square)](https://github.com/ege-arhan)
-[![Followers](https://img.shields.io/github/followers/ege-arhan?style=flat-square&color=58a6ff)](https://github.com/ege-arhan?tab=followers)
-[![Repos](https://img.shields.io/badge/repos-28-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
-
-</div>
+- 🛠️ **Focus:** Autonomous developer tooling, self-hosted AI architecture, and high-efficiency agents.
+- 💻 **Stack:** Python, TypeScript, Docker, Linux, FastAPI, Node.js, Vector DBs.
+- ⚡ **Open Source:** Active contributor to core AI and developer ecosystem libraries.
 
 ---
 
-### 🚀 About Me
+### 🌟 Selected Merged Contributions
 
-```python
-ege = {
-    "role": "AI Engineer & Full-Stack Dev",
-    "focus": ["LLM Automation", "Self-hosted AI", "Open Source"],
-    "stack": ["Python", "TypeScript", "Docker", "Linux"],
-    "affiliation": "INOVENS · Hackathons · Client Projects",
-    "building": ["TrustLaya-S", "mcp-forge", "mcp-sanity"],
-    "open_source": "93 PRs across 39 upstream repos, October 2026",
-    "motto": "Automate everything. Ship fast. Keep it simple."
-}
-```
+| Project | Description | PR |
+|:---|:---|:---:|
+| `huggingface/transformers` | Fix audio token count calculation using ceiling division | [#48864](https://github.com/huggingface/transformers/pull/48864) |
+| `maximhq/bifrost` | Preserve sampling parameters on raw datasheet definitions | [#8782](https://github.com/maximhq/bifrost/pull/8782) |
+| `deepset-ai/haystack` | Safe fallback for unranked documents on null search query | [#12799](https://github.com/deepset-ai/haystack/pull/12799) |
+| `unclecode/crawl4ai` | Clarify CLI extraction strategy requirement for JSON output | [#2335](https://github.com/unclecode/crawl4ai/pull/2335) |
+| `debpalash/VoiceStudio` | Validate HTTP 206 and Content-Range in segmented streams | [#2463](https://github.com/debpalash/VoiceStudio/pull/2463) |
 
 ---
 
-### 🛠️ Tech Stack
+### 🔨 Projects
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,express,fastapi,django,postgres,mysql,redis,mongodb,docker,kubernetes,aws,gcp,linux,git,github,vscode,figma,tailwind,prisma,supabase,vercel&perline=8" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Languages</b><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Frontend & Mobile</b><br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Backend & Data</b><br/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>AI / LLM</b><br/>
-  <img src="https://img.shields.io/badge/AI%2FLLM-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-00B894?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/VectorDB-6C5CE7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Chroma-FF4B4B?style=flat-square" />
-  <img src="https://img.shields.io/badge/LiteLLM-58A6FF?style=flat-square" />
-</p>
-
-<p align="center">
-  <b>Infra & Tools</b><br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenClaw-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/9router-8A2BE2?style=flat-square" />
-</p>
+- **[mcp-forge](https://github.com/ege-arhan/mcp-forge)** — Zero-overhead MCP server scaffolding and validation engine (Python/TS).
+- **[mcp-sanity](https://github.com/ege-arhan/mcp-sanity)** — Diagnostics and handshake inspector for desktop AI environments.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ege-arhan&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-### 🌟 Open Source Contributions
-
-*22 merged pull requests across top open source repositories*
-
-**Merged**
-
-| PR | Repo | Change |
-|----|------|--------|
-| [#8782](https://github.com/maximhq/bifrost/pull/8782) | `maximhq/bifrost` (8.7k⭐) | Stop compat from stripping sampling params on datasheet rows without mod… |
-| [#8649](https://github.com/maximhq/bifrost/pull/8649) | `maximhq/bifrost` (8.7k⭐) | fix(bedrock): exclude converse-only internal fields from InvokeModel bui… |
-| [#196](https://github.com/Lampese/codex-switcher/pull/196) | `Lampese/codex-switcher` | fix(storage): deserialize legacy ChatGPT auth mode and data variants (#5… |
-| [#2335](https://github.com/unclecode/crawl4ai/pull/2335) | `unclecode/crawl4ai` (85k⭐) | docs(cli): clarify that --output json requires extraction strategy |
-| [#360](https://github.com/storytold/gridcraft/pull/360) | `storytold/gridcraft` (2.7k⭐) | fix(ribbon): Watch Window layout in Formulas ribbon (#342) |
-| [#8247](https://github.com/maximhq/bifrost/pull/8247) | `maximhq/bifrost` (8.7k⭐) | fix(logstore): truncate ClickHouse input histories to last message in li… |
-| [#15732](https://github.com/pingdotgg/t3code/pull/15732) | `pingdotgg/t3code` (25k⭐) | docs(install): polish binary install destination phrasing |
-| [#2463](https://github.com/debpalash/VoiceStudio/pull/2463) | `debpalash/VoiceStudio` (50k⭐) | fix(download): validate HTTP 206 and Content-Range in segmented download |
-| [#258](https://github.com/mvschwarz/openrig/pull/258) | `mvschwarz/openrig` (3.1k⭐) | fix(daemon): create output directory when packing bundle |
-| [#3](https://github.com/bnku/codex-switcher/pull/3) | `bnku/codex-switcher` | fix: choose supported model when recovering after account switch |
-| [#2](https://github.com/bnku/codex-switcher/pull/2) | `bnku/codex-switcher` | fix: resume every limited desktop task after account switch |
-| [#1](https://github.com/bnku/codex-switcher/pull/1) | `bnku/codex-switcher` | feat: resume macOS desktop sessions after account rotation |
-| [#12799](https://github.com/deepset-ai/haystack/pull/12799) | `deepset-ai/haystack` (27k⭐) | LLMRanker returns documents unranked on None query instead of crashing |
-| [#48864](https://github.com/huggingface/transformers/pull/48864) | `huggingface/transformers` (166k⭐) | fix(vibevoice-asr): use integer ceiling division for audio token count |
-| [#554](https://github.com/agentguard-ai/tealtiger/pull/554) | `agentguard-ai/tealtiger` | docs(mcp): add Continue + Windsurf client configs (follow-up to #548) |
-| [#303](https://github.com/sara-czasak/py-simple-wrap/pull/303) | `sara-czasak/py-simple-wrap` | feat(easy_random): add generate_password helper |
-| [#961](https://github.com/MakazhanAlpamys/Soup/pull/961) | `MakazhanAlpamys/Soup` (6.9k⭐) | feat(mlx): widen sft table to remaining four CUDA-only fields |
-| [#957](https://github.com/MakazhanAlpamys/Soup/pull/957) | `MakazhanAlpamys/Soup` (6.9k⭐) | docs(readme): polish Turkish translation for v0.75.0 release |
-| [#81](https://github.com/open-devhub/website/pull/81) | `open-devhub/website` | fix(footer): replace All rights reserved with GPL-3.0 license link |
-| [#629](https://github.com/yakew7/Fair-Code/pull/629) | `yakew7/Fair-Code` | docs(profiler): correct bias audit count from six to seven |
-| [#30318](https://github.com/lingdojo/kana-dojo/pull/30318) | `lingdojo/kana-dojo` (3.4k⭐) | content: add new japanese false friend |
-| [#39](https://github.com/gczobel/calibre_mcp_server/pull/39) | `gczobel/calibre_mcp_server` | docs(tool-surface): remove stale claim that non-link custom columns retu… |
-
----
-
-### 🔨 Building
-
-| Project | What it does |
-|---------|--------------|
-| [`mcp-forge`](https://github.com/ege-arhan/mcp-forge) | One-command MCP server scaffolder — Python/TS templates, Docker, inspector-verified handshakes |
-| [`mcp-sanity`](https://github.com/ege-arhan/mcp-sanity) | Live doctor for MCP configs — discovers Claude Desktop/Cursor/Codex servers, spawns each one, probes the handshake, names the broken one |
-
----
-
-### 📫 Connect
-
 <p align="center">
-  <a href="https://github.com/ege-arhan"><img src="https://img.shields.io/badge/GitHub-ege--arhan-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:egearhany@gmail.com"><img src="https://img.shields.io/badge/Email-egearhany@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:egearhany@gmail.com"><img src="https://img.shields.io/badge/Email-egearhany@gmail.com-blue?style=flat-square" /></a>
+  <a href="https://github.com/ege-arhan"><img src="https://img.shields.io/badge/GitHub-ege--arhan-black?style=flat-square" /></a>
 </p>
