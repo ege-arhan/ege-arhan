@@ -3,7 +3,6 @@
 AI & Automation Engineer | Building practical systems with LLMs, agents, and modern infrastructure.
 
 - 🛠️ **Focus:** Autonomous developer tooling, self-hosted AI architecture, and high-efficiency agents.
-- 💻 **Stack:** Python, TypeScript, Docker, Linux, FastAPI, Node.js, Vector DBs.
 - ⚡ **Open Source:** Active contributor to core AI and developer ecosystem libraries.
 
 ---
