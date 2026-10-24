@@ -20,13 +20,6 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 
 ---
 
-### 🔨 Projects
-
-- **[mcp-forge](https://github.com/ege-arhan/mcp-forge)** — Zero-overhead MCP server scaffolding and validation engine (Python/TS).
-- **[mcp-sanity](https://github.com/ege-arhan/mcp-sanity)** — Diagnostics and handshake inspector for desktop AI environments.
-
----
-
 <p align="center">
   <a href="mailto:egearhany@gmail.com"><img src="https://img.shields.io/badge/Email-egearhany@gmail.com-blue?style=flat-square" /></a>
   <a href="https://github.com/ege-arhan"><img src="https://img.shields.io/badge/GitHub-ege--arhan-black?style=flat-square" /></a>
