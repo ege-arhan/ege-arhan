@@ -6,7 +6,7 @@
 
 [![Profile Views](https://api.visitorbadge.io/api/visitors?path=ege-arhan&label=views&countColor=%2358a6ff&style=flat-square)](https://github.com/ege-arhan)
 [![Followers](https://img.shields.io/github/followers/ege-arhan?style=flat-square&color=58a6ff)](https://github.com/ege-arhan?tab=followers)
-[![Repos](https://img.shields.io/badge/repos-67-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
+[![Repos](https://img.shields.io/badge/repos-28-blue?style=flat-square)](https://github.com/ege-arhan?tab=repositories)
 
 </div>
 
