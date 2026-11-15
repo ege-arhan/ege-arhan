@@ -9,7 +9,7 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 
 ### 🌟 Open Source Contributions
 
-*123 PRs · 36 upstream repos · 31 merged · 14 in review · November 2026*
+*125 PRs · 38 upstream repos · 31 merged · 16 in review · November 2026*
 
 **Merged**
 
@@ -57,14 +57,14 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 | [#41012](https://github.com/BerriAI/litellm/pull/41012) | `BerriAI/litellm` (59k⭐) | fix(proxy): case-insensitive User-Agent header lookup in _get_user_agent… |
 | [#71842](https://github.com/pandas-dev/pandas/pull/71842) | `pandas-dev/pandas` (50k⭐) | BUG: json_normalize max_level KeyError for non-string mapping keys (GH#7… |
 | [#67465](https://github.com/ray-project/ray/pull/67465) | `ray-project/ray` (44k⭐) | Fix train_test_split sizes lost to float truncation and stratified counts |
+| [#497](https://github.com/hypit-ai/hypit/pull/497) | `hypit-ai/hypit` (30k⭐) | fix(visual-track): declare VisualClipMotion as a Track Surface output |
 | [#2020](https://github.com/yamadashy/repomix/pull/2020) | `yamadashy/repomix` (29k⭐) | fix(mcp): allow root workspace directory in sandbox containment check |
 | [#15330](https://github.com/pytest-dev/pytest/pull/15330) | `pytest-dev/pytest` (15k⭐) | runner: catch BaseExceptionGroup during teardown (fixes #15329) |
 | [#9730](https://github.com/maximhq/bifrost/pull/9730) | `maximhq/bifrost` (8.7k⭐) | fix(anthropic): support mid-conversation output config for Haiku 5.5 |
 | [#676](https://github.com/firecrawl/firecrawl-mcp-server/pull/676) | `firecrawl/firecrawl-mcp-server` (7.8k⭐) | fix(stdio): suppress keyless notice when FIRECRAWL_OAUTH_TOKEN is set |
-| [#2354](https://github.com/reticlehq/reticle/pull/2354) | `reticlehq/reticle` (1.3k⭐) | fix(init): merge into nested vite config blocks (#2334) |
-| [#2348](https://github.com/caura-ai/caura/pull/2348) | `caura-ai/caura` | feat(llm): add OPENAI_CHAT_SEND_TEMPERATURE config |
+| [#1466](https://github.com/KunAgent/Kun/pull/1466) | `KunAgent/Kun` (6.4k⭐) | fix(rooms): settle queued run when its request is cancelled |
 
-Plus open work in `codex-switcher`, `awesome-pre-commit`.
+Plus open work in `codex-switcher`, `caura`, `awesome-pre-commit`, `reticle`.
 
 ---
 
