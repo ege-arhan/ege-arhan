@@ -9,12 +9,13 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 
 ### 🌟 Open Source Contributions
 
-*125 PRs · 38 upstream repos · 31 merged · 16 in review · November 2026*
+*128 PRs · 39 upstream repos · 32 merged · 16 in review · November 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#1482](https://github.com/mvanhorn/last30days-skill/pull/1482) | `mvanhorn/last30days-skill` (68k⭐) | fix(nudge): only ask for youtube_comments when it is actually off |
 | [#1322](https://github.com/JetBrains/thinkrail/pull/1322) | `JetBrains/thinkrail` (8.2k⭐) | fix(web): close ask-user-question note on blur |
 | [#611](https://github.com/tryatlas/atlas/pull/611) | `tryatlas/atlas` (9.4k⭐) | fix(terminal): prevent tab drag from swallowing close button clicks |
 | [#806](https://github.com/enix/kube-image-keeper/pull/806) | `enix/kube-image-keeper` | fix(registry): guard the captured headers against concurrent round trips |
