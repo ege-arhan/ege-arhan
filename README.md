@@ -9,12 +9,13 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 
 ### 🌟 Open Source Contributions
 
-*131 PRs · 41 upstream repos · 32 merged · 19 in review · November 2026*
+*134 PRs · 43 upstream repos · 33 merged · 20 in review · November 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#155](https://github.com/elementalsouls/Claude-BugHunter/pull/155) | `elementalsouls/Claude-BugHunter` (8.9k⭐) | fix(scope): reduce URL bullets in scope.md to their host |
 | [#1482](https://github.com/mvanhorn/last30days-skill/pull/1482) | `mvanhorn/last30days-skill` (68k⭐) | fix(nudge): only ask for youtube_comments when it is actually off |
 | [#1322](https://github.com/JetBrains/thinkrail/pull/1322) | `JetBrains/thinkrail` (8.2k⭐) | fix(web): close ask-user-question note on blur |
 | [#611](https://github.com/tryatlas/atlas/pull/611) | `tryatlas/atlas` (9.4k⭐) | fix(terminal): prevent tab drag from swallowing close button clicks |
@@ -53,6 +54,7 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 | PR | Repo | Change |
 |----|------|--------|
 | [#5409](https://github.com/firecrawl/firecrawl/pull/5409) | `firecrawl/firecrawl` (196k⭐) | fix(python-sdk): retain extracted attributes on Document |
+| [#3026](https://github.com/MemPalace/mempalace/pull/3026) | `MemPalace/mempalace` (61k⭐) | fix(chroma): repair a few colliding HNSW labels instead of quarantining … |
 | [#49609](https://github.com/BerriAI/litellm/pull/49609) | `BerriAI/litellm` (59k⭐) | fix(otel): export virtual key metadata into baggage when allowlisted |
 | [#41243](https://github.com/BerriAI/litellm/pull/41243) | `BerriAI/litellm` (59k⭐) | fix(passthrough): keep adaptive thinking/effort on native /v1/messages p… |
 | [#41012](https://github.com/BerriAI/litellm/pull/41012) | `BerriAI/litellm` (59k⭐) | fix(proxy): case-insensitive User-Agent header lookup in _get_user_agent… |
@@ -61,11 +63,10 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 | [#67465](https://github.com/ray-project/ray/pull/67465) | `ray-project/ray` (44k⭐) | Fix train_test_split sizes lost to float truncation and stratified counts |
 | [#497](https://github.com/hypit-ai/hypit/pull/497) | `hypit-ai/hypit` (30k⭐) | fix(visual-track): declare VisualClipMotion as a Track Surface output |
 | [#2020](https://github.com/yamadashy/repomix/pull/2020) | `yamadashy/repomix` (29k⭐) | fix(mcp): allow root workspace directory in sandbox containment check |
+| [#2220](https://github.com/1jehuang/jcode/pull/2220) | `1jehuang/jcode` (22k⭐) | fix(provider): honour api = "responses" on named OpenAI-compatible profi… |
 | [#15330](https://github.com/pytest-dev/pytest/pull/15330) | `pytest-dev/pytest` (15k⭐) | runner: catch BaseExceptionGroup during teardown (fixes #15329) |
-| [#3583](https://github.com/backnotprop/plannotator/pull/3583) | `backnotprop/plannotator` (13k⭐) | fix(inbox): a relayed card op ignores the relay's own idempotency_key (#… |
-| [#155](https://github.com/elementalsouls/Claude-BugHunter/pull/155) | `elementalsouls/Claude-BugHunter` (8.9k⭐) | fix(scope): reduce URL bullets in scope.md to their host |
 
-Plus open work in `Kun`, `codex-switcher`, `caura`, `awesome-pre-commit`, `firecrawl-mcp-server`, `bifrost`, `reticle`.
+Plus open work in `Kun`, `plannotator`, `codex-switcher`, `caura`, `awesome-pre-commit`, `firecrawl-mcp-server`, `bifrost`, `reticle`.
 
 ---
 
