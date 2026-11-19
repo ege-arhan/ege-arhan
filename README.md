@@ -9,12 +9,13 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 
 ### 🌟 Open Source Contributions
 
-*134 PRs · 43 upstream repos · 33 merged · 20 in review · November 2026*
+*136 PRs · 45 upstream repos · 34 merged · 21 in review · November 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#86](https://github.com/Oldcircle/geo-sleuth/pull/86) | `Oldcircle/geo-sleuth` (7.3k⭐) | regions: report a value no pack takes as not_applicable, not unsupported |
 | [#155](https://github.com/elementalsouls/Claude-BugHunter/pull/155) | `elementalsouls/Claude-BugHunter` (8.9k⭐) | fix(scope): reduce URL bullets in scope.md to their host |
 | [#1482](https://github.com/mvanhorn/last30days-skill/pull/1482) | `mvanhorn/last30days-skill` (68k⭐) | fix(nudge): only ask for youtube_comments when it is actually off |
 | [#1322](https://github.com/JetBrains/thinkrail/pull/1322) | `JetBrains/thinkrail` (8.2k⭐) | fix(web): close ask-user-question note on blur |
@@ -66,7 +67,7 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 | [#2220](https://github.com/1jehuang/jcode/pull/2220) | `1jehuang/jcode` (22k⭐) | fix(provider): honour api = "responses" on named OpenAI-compatible profi… |
 | [#15330](https://github.com/pytest-dev/pytest/pull/15330) | `pytest-dev/pytest` (15k⭐) | runner: catch BaseExceptionGroup during teardown (fixes #15329) |
 
-Plus open work in `Kun`, `plannotator`, `codex-switcher`, `caura`, `awesome-pre-commit`, `firecrawl-mcp-server`, `bifrost`, `reticle`.
+Plus open work in `Kun`, `plannotator`, `codex-switcher`, `caura`, `awesome-pre-commit`, `dask`, `firecrawl-mcp-server`, `bifrost`, `reticle`.
 
 ---
 
