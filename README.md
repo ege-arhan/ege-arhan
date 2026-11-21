@@ -9,12 +9,14 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 
 ### 🌟 Open Source Contributions
 
-*137 PRs · 47 upstream repos · 34 merged · 23 in review · November 2026*
+*140 PRs · 47 upstream repos · 36 merged · 22 in review · November 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#3583](https://github.com/backnotprop/plannotator/pull/3583) | `backnotprop/plannotator` (13k⭐) | fix(inbox): a relayed card op ignores the relay's own idempotency_key (#… |
+| [#4854](https://github.com/jaywcjlove/awesome-mac/pull/4854) | `jaywcjlove/awesome-mac` (119k⭐) | Add Ebb to Cleanup and Uninstall |
 | [#86](https://github.com/Oldcircle/geo-sleuth/pull/86) | `Oldcircle/geo-sleuth` (7.3k⭐) | regions: report a value no pack takes as not_applicable, not unsupported |
 | [#155](https://github.com/elementalsouls/Claude-BugHunter/pull/155) | `elementalsouls/Claude-BugHunter` (8.9k⭐) | fix(scope): reduce URL bullets in scope.md to their host |
 | [#1482](https://github.com/mvanhorn/last30days-skill/pull/1482) | `mvanhorn/last30days-skill` (68k⭐) | fix(nudge): only ask for youtube_comments when it is actually off |
@@ -67,7 +69,7 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 | [#2020](https://github.com/yamadashy/repomix/pull/2020) | `yamadashy/repomix` (29k⭐) | fix(mcp): allow root workspace directory in sandbox containment check |
 | [#1399](https://github.com/DuarteSantos8/openGym/pull/1399) | `DuarteSantos8/openGym` (23k⭐) | Run a timed per-side hold on both sides in the circuit player |
 
-Plus open work in `jcode`, `Kun`, `plannotator`, `codex-switcher`, `caura`, `awesome-pre-commit`, `dask`, `firecrawl-mcp-server`, `bifrost`, `pytest`, `reticle`.
+Plus open work in `jcode`, `codex-switcher`, `caura`, `awesome-pre-commit`, `dask`, `firecrawl-mcp-server`, `bifrost`, `pytest`, `reticle`, `Trail-Code`.
 
 ---
 
