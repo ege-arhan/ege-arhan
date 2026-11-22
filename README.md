@@ -9,12 +9,13 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 
 ### 🌟 Open Source Contributions
 
-*140 PRs · 47 upstream repos · 36 merged · 22 in review · November 2026*
+*140 PRs · 47 upstream repos · 37 merged · 21 in review · November 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#2354](https://github.com/reticlehq/reticle/pull/2354) | `reticlehq/reticle` (1.3k⭐) | fix(init): merge into nested vite config blocks (#2334) |
 | [#3583](https://github.com/backnotprop/plannotator/pull/3583) | `backnotprop/plannotator` (13k⭐) | fix(inbox): a relayed card op ignores the relay's own idempotency_key (#… |
 | [#4854](https://github.com/jaywcjlove/awesome-mac/pull/4854) | `jaywcjlove/awesome-mac` (119k⭐) | Add Ebb to Cleanup and Uninstall |
 | [#86](https://github.com/Oldcircle/geo-sleuth/pull/86) | `Oldcircle/geo-sleuth` (7.3k⭐) | regions: report a value no pack takes as not_applicable, not unsupported |
@@ -69,7 +70,7 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 | [#2020](https://github.com/yamadashy/repomix/pull/2020) | `yamadashy/repomix` (29k⭐) | fix(mcp): allow root workspace directory in sandbox containment check |
 | [#1399](https://github.com/DuarteSantos8/openGym/pull/1399) | `DuarteSantos8/openGym` (23k⭐) | Run a timed per-side hold on both sides in the circuit player |
 
-Plus open work in `jcode`, `codex-switcher`, `caura`, `awesome-pre-commit`, `dask`, `firecrawl-mcp-server`, `bifrost`, `pytest`, `reticle`, `Trail-Code`.
+Plus open work in `jcode`, `codex-switcher`, `caura`, `awesome-pre-commit`, `dask`, `firecrawl-mcp-server`, `bifrost`, `pytest`, `Trail-Code`.
 
 ---
 
