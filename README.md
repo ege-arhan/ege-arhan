@@ -9,7 +9,7 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 
 ### 🌟 Open Source Contributions
 
-*140 PRs · 47 upstream repos · 37 merged · 21 in review · November 2026*
+*142 PRs · 49 upstream repos · 37 merged · 23 in review · November 2026*
 
 **Merged**
 
@@ -70,7 +70,7 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 | [#2020](https://github.com/yamadashy/repomix/pull/2020) | `yamadashy/repomix` (29k⭐) | fix(mcp): allow root workspace directory in sandbox containment check |
 | [#1399](https://github.com/DuarteSantos8/openGym/pull/1399) | `DuarteSantos8/openGym` (23k⭐) | Run a timed per-side hold on both sides in the circuit player |
 
-Plus open work in `jcode`, `codex-switcher`, `caura`, `awesome-pre-commit`, `dask`, `firecrawl-mcp-server`, `bifrost`, `pytest`, `Trail-Code`.
+Plus open work in `jcode`, `OpenBot`, `tuios`, `codex-switcher`, `caura`, `awesome-pre-commit`, `dask`, `firecrawl-mcp-server`, `bifrost`, `pytest`, `Trail-Code`.
 
 ---
 
