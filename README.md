@@ -9,12 +9,15 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 
 ### 🌟 Open Source Contributions
 
-*142 PRs · 49 upstream repos · 37 merged · 23 in review · November 2026*
+*144 PRs · 50 upstream repos · 40 merged · 21 in review · November 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#2412](https://github.com/Gaurav-Gosain/tuios/pull/2412) | `Gaurav-Gosain/tuios` (6.7k⭐) | fix(integration): exit 0 from claude-code hooks when tuios is off PATH |
+| [#72](https://github.com/JuneYaooo/rea-video/pull/72) | `JuneYaooo/rea-video` (13k⭐) | clean-paths: report an unreadable package instead of aborting the scan |
+| [#224](https://github.com/erkamyaman/rust-anything/pull/224) | `erkamyaman/rust-anything` (8.9k⭐) | test(recording): cover spans() runs and gaps |
 | [#2354](https://github.com/reticlehq/reticle/pull/2354) | `reticlehq/reticle` (1.3k⭐) | fix(init): merge into nested vite config blocks (#2334) |
 | [#3583](https://github.com/backnotprop/plannotator/pull/3583) | `backnotprop/plannotator` (13k⭐) | fix(inbox): a relayed card op ignores the relay's own idempotency_key (#… |
 | [#4854](https://github.com/jaywcjlove/awesome-mac/pull/4854) | `jaywcjlove/awesome-mac` (119k⭐) | Add Ebb to Cleanup and Uninstall |
@@ -68,9 +71,9 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 | [#67465](https://github.com/ray-project/ray/pull/67465) | `ray-project/ray` (44k⭐) | Fix train_test_split sizes lost to float truncation and stratified counts |
 | [#497](https://github.com/hypit-ai/hypit/pull/497) | `hypit-ai/hypit` (30k⭐) | fix(visual-track): declare VisualClipMotion as a Track Surface output |
 | [#2020](https://github.com/yamadashy/repomix/pull/2020) | `yamadashy/repomix` (29k⭐) | fix(mcp): allow root workspace directory in sandbox containment check |
-| [#1399](https://github.com/DuarteSantos8/openGym/pull/1399) | `DuarteSantos8/openGym` (23k⭐) | Run a timed per-side hold on both sides in the circuit player |
+| [#2220](https://github.com/1jehuang/jcode/pull/2220) | `1jehuang/jcode` (22k⭐) | fix(provider): honour api = "responses" on named OpenAI-compatible profi… |
 
-Plus open work in `jcode`, `OpenBot`, `tuios`, `codex-switcher`, `caura`, `awesome-pre-commit`, `dask`, `firecrawl-mcp-server`, `bifrost`, `pytest`, `Trail-Code`.
+Plus open work in `OpenBot`, `codex-switcher`, `caura`, `awesome-pre-commit`, `dask`, `firecrawl-mcp-server`, `bifrost`, `pytest`, `Trail-Code`.
 
 ---
 
