@@ -9,7 +9,7 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 
 ### 🌟 Open Source Contributions
 
-*144 PRs · 50 upstream repos · 40 merged · 21 in review · November 2026*
+*147 PRs · 53 upstream repos · 40 merged · 24 in review · November 2026*
 
 **Merged**
 
@@ -69,11 +69,11 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 | [#71842](https://github.com/pandas-dev/pandas/pull/71842) | `pandas-dev/pandas` (50k⭐) | BUG: json_normalize max_level KeyError for non-string mapping keys (GH#7… |
 | [#2020](https://github.com/alibaba/open-code-review/pull/2020) | `alibaba/open-code-review` (46k⭐) | fix(tool): keep code_search workspace mode working with submodule.recurse |
 | [#67465](https://github.com/ray-project/ray/pull/67465) | `ray-project/ray` (44k⭐) | Fix train_test_split sizes lost to float truncation and stratified counts |
+| [#33443](https://github.com/numpy/numpy/pull/33443) | `numpy/numpy` (33k⭐) | BUG: widen zero-width domain in `fromroots` with a single root |
 | [#497](https://github.com/hypit-ai/hypit/pull/497) | `hypit-ai/hypit` (30k⭐) | fix(visual-track): declare VisualClipMotion as a Track Surface output |
 | [#2020](https://github.com/yamadashy/repomix/pull/2020) | `yamadashy/repomix` (29k⭐) | fix(mcp): allow root workspace directory in sandbox containment check |
-| [#2220](https://github.com/1jehuang/jcode/pull/2220) | `1jehuang/jcode` (22k⭐) | fix(provider): honour api = "responses" on named OpenAI-compatible profi… |
 
-Plus open work in `OpenBot`, `codex-switcher`, `caura`, `awesome-pre-commit`, `dask`, `firecrawl-mcp-server`, `bifrost`, `pytest`, `Trail-Code`.
+Plus open work in `jcode`, `OpenBot`, `webrouter`, `codex-switcher`, `caura`, `awesome-pre-commit`, `dask`, `firecrawl-mcp-server`, `bifrost`, `SoduWork`, `pytest`, `Trail-Code`.
 
 ---
 
