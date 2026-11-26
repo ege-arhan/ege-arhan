@@ -9,12 +9,13 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 
 ### 🌟 Open Source Contributions
 
-*149 PRs · 53 upstream repos · 40 merged · 24 in review · November 2026*
+*150 PRs · 51 upstream repos · 41 merged · 22 in review · November 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#1012](https://github.com/jannskiee/floe/pull/1012) | `jannskiee/floe` | fix(server): log the error code when a Cloudflare TURN mint fails |
 | [#2412](https://github.com/Gaurav-Gosain/tuios/pull/2412) | `Gaurav-Gosain/tuios` (6.7k⭐) | fix(integration): exit 0 from claude-code hooks when tuios is off PATH |
 | [#72](https://github.com/JuneYaooo/rea-video/pull/72) | `JuneYaooo/rea-video` (13k⭐) | clean-paths: report an unreadable package instead of aborting the scan |
 | [#224](https://github.com/erkamyaman/rust-anything/pull/224) | `erkamyaman/rust-anything` (8.9k⭐) | test(recording): cover spans() runs and gaps |
@@ -69,11 +70,11 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 | [#71842](https://github.com/pandas-dev/pandas/pull/71842) | `pandas-dev/pandas` (50k⭐) | BUG: json_normalize max_level KeyError for non-string mapping keys (GH#7… |
 | [#2020](https://github.com/alibaba/open-code-review/pull/2020) | `alibaba/open-code-review` (46k⭐) | fix(tool): keep code_search workspace mode working with submodule.recurse |
 | [#67465](https://github.com/ray-project/ray/pull/67465) | `ray-project/ray` (44k⭐) | Fix train_test_split sizes lost to float truncation and stratified counts |
-| [#33443](https://github.com/numpy/numpy/pull/33443) | `numpy/numpy` (33k⭐) | BUG: widen zero-width domain in `fromroots` with a single root |
 | [#497](https://github.com/hypit-ai/hypit/pull/497) | `hypit-ai/hypit` (30k⭐) | fix(visual-track): declare VisualClipMotion as a Track Surface output |
 | [#2020](https://github.com/yamadashy/repomix/pull/2020) | `yamadashy/repomix` (29k⭐) | fix(mcp): allow root workspace directory in sandbox containment check |
+| [#2220](https://github.com/1jehuang/jcode/pull/2220) | `1jehuang/jcode` (22k⭐) | fix(provider): honour api = "responses" on named OpenAI-compatible profi… |
 
-Plus open work in `jcode`, `OpenBot`, `codex-switcher`, `caura`, `awesome-pre-commit`, `dask`, `firecrawl-mcp-server`, `floe`, `bifrost`, `SoduWork`, `pytest`, `Trail-Code`.
+Plus open work in `OpenBot`, `codex-switcher`, `caura`, `awesome-pre-commit`, `dask`, `firecrawl-mcp-server`, `bifrost`, `pytest`, `Trail-Code`.
 
 ---
 
