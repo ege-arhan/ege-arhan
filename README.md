@@ -9,7 +9,7 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 
 ### 🌟 Open Source Contributions
 
-*147 PRs · 53 upstream repos · 40 merged · 24 in review · November 2026*
+*149 PRs · 53 upstream repos · 40 merged · 24 in review · November 2026*
 
 **Merged**
 
@@ -73,7 +73,7 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 | [#497](https://github.com/hypit-ai/hypit/pull/497) | `hypit-ai/hypit` (30k⭐) | fix(visual-track): declare VisualClipMotion as a Track Surface output |
 | [#2020](https://github.com/yamadashy/repomix/pull/2020) | `yamadashy/repomix` (29k⭐) | fix(mcp): allow root workspace directory in sandbox containment check |
 
-Plus open work in `jcode`, `OpenBot`, `webrouter`, `codex-switcher`, `caura`, `awesome-pre-commit`, `dask`, `firecrawl-mcp-server`, `bifrost`, `SoduWork`, `pytest`, `Trail-Code`.
+Plus open work in `jcode`, `OpenBot`, `codex-switcher`, `caura`, `awesome-pre-commit`, `dask`, `firecrawl-mcp-server`, `floe`, `bifrost`, `SoduWork`, `pytest`, `Trail-Code`.
 
 ---
 
