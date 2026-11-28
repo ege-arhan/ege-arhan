@@ -9,12 +9,13 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 
 ### 🌟 Open Source Contributions
 
-*153 PRs · 53 upstream repos · 41 merged · 24 in review · November 2026*
+*153 PRs · 53 upstream repos · 42 merged · 23 in review · November 2026*
 
 **Merged**
 
 | PR | Repo | Change |
 |----|------|--------|
+| [#792](https://github.com/kajisho5/ffmpeg-skill/pull/792) | `kajisho5/ffmpeg-skill` (12k⭐) | fix: a sound-only decode of an MPEG-TS or MPEG-PS counts from the file's… |
 | [#1012](https://github.com/jannskiee/floe/pull/1012) | `jannskiee/floe` | fix(server): log the error code when a Cloudflare TURN mint fails |
 | [#2412](https://github.com/Gaurav-Gosain/tuios/pull/2412) | `Gaurav-Gosain/tuios` (6.7k⭐) | fix(integration): exit 0 from claude-code hooks when tuios is off PATH |
 | [#72](https://github.com/JuneYaooo/rea-video/pull/72) | `JuneYaooo/rea-video` (13k⭐) | clean-paths: report an unreadable package instead of aborting the scan |
@@ -74,7 +75,7 @@ AI & Automation Engineer | Building practical systems with LLMs, agents, and mod
 | [#2020](https://github.com/yamadashy/repomix/pull/2020) | `yamadashy/repomix` (29k⭐) | fix(mcp): allow root workspace directory in sandbox containment check |
 | [#2220](https://github.com/1jehuang/jcode/pull/2220) | `1jehuang/jcode` (22k⭐) | fix(provider): honour api = "responses" on named OpenAI-compatible profi… |
 
-Plus open work in `OpenBot`, `codex-switcher`, `caura`, `awesome-pre-commit`, `plugins`, `dask`, `firecrawl-mcp-server`, `ffmpeg-skill`, `bifrost`, `pytest`, `Trail-Code`.
+Plus open work in `OpenBot`, `codex-switcher`, `caura`, `awesome-pre-commit`, `plugins`, `dask`, `firecrawl-mcp-server`, `bifrost`, `pytest`, `Trail-Code`.
 
 ---
 
